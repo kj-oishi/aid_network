@@ -1,0 +1,10622 @@
+[
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Algeria",
+    "weight": 9.3
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Angola",
+    "weight": 90.53999999999999
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Benin",
+    "weight": 100.08000000000001
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Burkina Faso",
+    "weight": 68.1
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Burundi",
+    "weight": 161.82
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Central African Republic",
+    "weight": 59.2
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Comoros",
+    "weight": 6.68
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Cote d'Ivoire",
+    "weight": 47.38
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Djibouti",
+    "weight": 77.82
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Egypt",
+    "weight": 162.28
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Equatorial Guinea",
+    "weight": 59.2
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Eswatini",
+    "weight": 66.32
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Ethiopia",
+    "weight": 928.1600000000001
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Gabon",
+    "weight": 10.52
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Gambia",
+    "weight": 82.03999999999999
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Ghana",
+    "weight": 19.64
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Guinea",
+    "weight": 5.48
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Kenya",
+    "weight": 29.6
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Lesotho",
+    "weight": 249.60000000000002
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Madagascar",
+    "weight": 165.14
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Malawi",
+    "weight": 119.85999999999999
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Mali",
+    "weight": 94.76
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Mauritania",
+    "weight": 59.2
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Morocco",
+    "weight": 118.46000000000001
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Mozambique",
+    "weight": 706.02
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Namibia",
+    "weight": 84.98
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Nigeria",
+    "weight": 513.0
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Rwanda",
+    "weight": 3.5599999999999996
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Senegal",
+    "weight": 60.98
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Sierra Leone",
+    "weight": 154.0
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Sudan",
+    "weight": 31.700000000000003
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Tanzania",
+    "weight": 520.02
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Togo",
+    "weight": 74.04
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Uganda",
+    "weight": 72.25999999999999
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Zambia",
+    "weight": 167.62
+  },
+  {
+    "donor": "African Development Fund [AfDF]",
+    "recip": "Zimbabwe",
+    "weight": 7.1
+  },
+  {
+    "donor": "Arab Bank for Economic Development in Africa [BADEA]",
+    "recip": "Botswana",
+    "weight": 42.1
+  },
+  {
+    "donor": "Arab Bank for Economic Development in Africa [BADEA]",
+    "recip": "Burkina Faso",
+    "weight": 45.92
+  },
+  {
+    "donor": "Arab Bank for Economic Development in Africa [BADEA]",
+    "recip": "Cabo Verde",
+    "weight": 42.1
+  },
+  {
+    "donor": "Arab Bank for Economic Development in Africa [BADEA]",
+    "recip": "Chad",
+    "weight": 1.3599999999999999
+  },
+  {
+    "donor": "Arab Bank for Economic Development in Africa [BADEA]",
+    "recip": "Equatorial Guinea",
+    "weight": 0.66
+  },
+  {
+    "donor": "Arab Bank for Economic Development in Africa [BADEA]",
+    "recip": "Ghana",
+    "weight": 40.92
+  },
+  {
+    "donor": "Arab Bank for Economic Development in Africa [BADEA]",
+    "recip": "Guinea",
+    "weight": 0.7000000000000001
+  },
+  {
+    "donor": "Arab Bank for Economic Development in Africa [BADEA]",
+    "recip": "Mali",
+    "weight": 29.380000000000003
+  },
+  {
+    "donor": "Arab Bank for Economic Development in Africa [BADEA]",
+    "recip": "Mauritius",
+    "weight": 33.440000000000005
+  },
+  {
+    "donor": "Arab Bank for Economic Development in Africa [BADEA]",
+    "recip": "Mozambique",
+    "weight": 15.44
+  },
+  {
+    "donor": "Arab Bank for Economic Development in Africa [BADEA]",
+    "recip": "Rwanda",
+    "weight": 26.189999999999998
+  },
+  {
+    "donor": "Arab Bank for Economic Development in Africa [BADEA]",
+    "recip": "Sao Tome and Principe",
+    "weight": 1.26
+  },
+  {
+    "donor": "Arab Bank for Economic Development in Africa [BADEA]",
+    "recip": "Senegal",
+    "weight": 34.0
+  },
+  {
+    "donor": "Arab Bank for Economic Development in Africa [BADEA]",
+    "recip": "Uganda",
+    "weight": 32.739999999999995
+  },
+  {
+    "donor": "Arab Fund (AFESD)",
+    "recip": "Djibouti",
+    "weight": 23.900000000000002
+  },
+  {
+    "donor": "Arab Fund (AFESD)",
+    "recip": "Egypt",
+    "weight": 588.2
+  },
+  {
+    "donor": "Arab Fund (AFESD)",
+    "recip": "Jordan",
+    "weight": 3.9799999999999995
+  },
+  {
+    "donor": "Arab Fund (AFESD)",
+    "recip": "Libya",
+    "weight": 35.08
+  },
+  {
+    "donor": "Arab Fund (AFESD)",
+    "recip": "Mauritania",
+    "weight": 95.64
+  },
+  {
+    "donor": "Arab Fund (AFESD)",
+    "recip": "Morocco",
+    "weight": 765.12
+  },
+  {
+    "donor": "Arab Fund (AFESD)",
+    "recip": "Oman",
+    "weight": 95.64
+  },
+  {
+    "donor": "Arab Fund (AFESD)",
+    "recip": "Syrian Arab Republic",
+    "weight": 741.22
+  },
+  {
+    "donor": "Arab Fund (AFESD)",
+    "recip": "Tunisia",
+    "weight": 318.82
+  },
+  {
+    "donor": "Arab Fund (AFESD)",
+    "recip": "Yemen",
+    "weight": 151.44
+  },
+  {
+    "donor": "Australia",
+    "recip": "Bangladesh",
+    "weight": 125.01000000000002
+  },
+  {
+    "donor": "Australia",
+    "recip": "Bhutan",
+    "weight": 7.010000000000001
+  },
+  {
+    "donor": "Australia",
+    "recip": "Botswana",
+    "weight": 7.8
+  },
+  {
+    "donor": "Australia",
+    "recip": "Cambodia",
+    "weight": 76.49
+  },
+  {
+    "donor": "Australia",
+    "recip": "China (People's Republic of)",
+    "weight": 233.07000000000002
+  },
+  {
+    "donor": "Australia",
+    "recip": "Cook Islands",
+    "weight": 6.1899999999999995
+  },
+  {
+    "donor": "Australia",
+    "recip": "Egypt",
+    "weight": 18.619999999999997
+  },
+  {
+    "donor": "Australia",
+    "recip": "El Salvador",
+    "weight": 0.51
+  },
+  {
+    "donor": "Australia",
+    "recip": "Eswatini",
+    "weight": 5.07
+  },
+  {
+    "donor": "Australia",
+    "recip": "Ethiopia",
+    "weight": 5.58
+  },
+  {
+    "donor": "Australia",
+    "recip": "Fiji",
+    "weight": 133.28000000000003
+  },
+  {
+    "donor": "Australia",
+    "recip": "French Polynesia",
+    "weight": 0.18
+  },
+  {
+    "donor": "Australia",
+    "recip": "Gambia",
+    "weight": 0.51
+  },
+  {
+    "donor": "Australia",
+    "recip": "Ghana",
+    "weight": 3.09
+  },
+  {
+    "donor": "Australia",
+    "recip": "Hong Kong (China)",
+    "weight": 0.32999999999999996
+  },
+  {
+    "donor": "Australia",
+    "recip": "India",
+    "weight": 240.84000000000003
+  },
+  {
+    "donor": "Australia",
+    "recip": "Indonesia",
+    "weight": 758.19
+  },
+  {
+    "donor": "Australia",
+    "recip": "Jordan",
+    "weight": 0.27
+  },
+  {
+    "donor": "Australia",
+    "recip": "Kenya",
+    "weight": 3.9599999999999995
+  },
+  {
+    "donor": "Australia",
+    "recip": "Kiribati",
+    "weight": 21.209999999999997
+  },
+  {
+    "donor": "Australia",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 18.529999999999998
+  },
+  {
+    "donor": "Australia",
+    "recip": "Lesotho",
+    "weight": 2.43
+  },
+  {
+    "donor": "Australia",
+    "recip": "Malawi",
+    "weight": 5.83
+  },
+  {
+    "donor": "Australia",
+    "recip": "Malaysia",
+    "weight": 120.61999999999999
+  },
+  {
+    "donor": "Australia",
+    "recip": "Maldives",
+    "weight": 9.02
+  },
+  {
+    "donor": "Australia",
+    "recip": "Mauritius",
+    "weight": 6.79
+  },
+  {
+    "donor": "Australia",
+    "recip": "Mongolia",
+    "weight": 0.09
+  },
+  {
+    "donor": "Australia",
+    "recip": "Mozambique",
+    "weight": 20.48
+  },
+  {
+    "donor": "Australia",
+    "recip": "Myanmar",
+    "weight": 0.93
+  },
+  {
+    "donor": "Australia",
+    "recip": "Namibia",
+    "weight": 19.81
+  },
+  {
+    "donor": "Australia",
+    "recip": "Nauru",
+    "weight": 0.51
+  },
+  {
+    "donor": "Australia",
+    "recip": "Nepal",
+    "weight": 5.26
+  },
+  {
+    "donor": "Australia",
+    "recip": "New Caledonia",
+    "weight": 0.4
+  },
+  {
+    "donor": "Australia",
+    "recip": "Nicaragua",
+    "weight": 0.6900000000000001
+  },
+  {
+    "donor": "Australia",
+    "recip": "Nigeria",
+    "weight": 13.41
+  },
+  {
+    "donor": "Australia",
+    "recip": "Niue",
+    "weight": 1.53
+  },
+  {
+    "donor": "Australia",
+    "recip": "Northern Mariana Islands",
+    "weight": 7.35
+  },
+  {
+    "donor": "Australia",
+    "recip": "Pakistan",
+    "weight": 81.10000000000001
+  },
+  {
+    "donor": "Australia",
+    "recip": "Papua New Guinea",
+    "weight": 1950.77
+  },
+  {
+    "donor": "Australia",
+    "recip": "Philippines",
+    "weight": 181.75
+  },
+  {
+    "donor": "Australia",
+    "recip": "Samoa",
+    "weight": 59.92
+  },
+  {
+    "donor": "Australia",
+    "recip": "Seychelles",
+    "weight": 4.2
+  },
+  {
+    "donor": "Australia",
+    "recip": "Sierra Leone",
+    "weight": 1.02
+  },
+  {
+    "donor": "Australia",
+    "recip": "Solomon Islands",
+    "weight": 114.48999999999998
+  },
+  {
+    "donor": "Australia",
+    "recip": "Somalia",
+    "weight": 0.27
+  },
+  {
+    "donor": "Australia",
+    "recip": "Sri Lanka",
+    "weight": 9.06
+  },
+  {
+    "donor": "Australia",
+    "recip": "Tanzania",
+    "weight": 14.04
+  },
+  {
+    "donor": "Australia",
+    "recip": "Thailand",
+    "weight": 37.66
+  },
+  {
+    "donor": "Australia",
+    "recip": "Tokelau",
+    "weight": 0.41999999999999993
+  },
+  {
+    "donor": "Australia",
+    "recip": "Tonga",
+    "weight": 37.489999999999995
+  },
+  {
+    "donor": "Australia",
+    "recip": "Tuvalu",
+    "weight": 10.780000000000001
+  },
+  {
+    "donor": "Australia",
+    "recip": "Uganda",
+    "weight": 2.26
+  },
+  {
+    "donor": "Australia",
+    "recip": "Vanuatu",
+    "weight": 69.55
+  },
+  {
+    "donor": "Australia",
+    "recip": "Viet Nam",
+    "weight": 197.48000000000002
+  },
+  {
+    "donor": "Australia",
+    "recip": "Zambia",
+    "weight": 22.61
+  },
+  {
+    "donor": "Australia",
+    "recip": "Zimbabwe",
+    "weight": 33.29
+  },
+  {
+    "donor": "Austria",
+    "recip": "Afghanistan",
+    "weight": 2.97
+  },
+  {
+    "donor": "Austria",
+    "recip": "Albania",
+    "weight": 34.74
+  },
+  {
+    "donor": "Austria",
+    "recip": "Algeria",
+    "weight": 3.08
+  },
+  {
+    "donor": "Austria",
+    "recip": "Angola",
+    "weight": 3.3
+  },
+  {
+    "donor": "Austria",
+    "recip": "Argentina",
+    "weight": 2.4899999999999993
+  },
+  {
+    "donor": "Austria",
+    "recip": "Bangladesh",
+    "weight": 12.049999999999999
+  },
+  {
+    "donor": "Austria",
+    "recip": "Barbados",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Austria",
+    "recip": "Benin",
+    "weight": 0.24
+  },
+  {
+    "donor": "Austria",
+    "recip": "Bhutan",
+    "weight": 43.050000000000004
+  },
+  {
+    "donor": "Austria",
+    "recip": "Bolivia",
+    "weight": 81.98000000000002
+  },
+  {
+    "donor": "Austria",
+    "recip": "Brazil",
+    "weight": 11.299999999999999
+  },
+  {
+    "donor": "Austria",
+    "recip": "Burkina Faso",
+    "weight": 5.01
+  },
+  {
+    "donor": "Austria",
+    "recip": "Burundi",
+    "weight": 3.12
+  },
+  {
+    "donor": "Austria",
+    "recip": "Cabo Verde",
+    "weight": 17.369999999999997
+  },
+  {
+    "donor": "Austria",
+    "recip": "Cambodia",
+    "weight": 4.67
+  },
+  {
+    "donor": "Austria",
+    "recip": "Cameroon",
+    "weight": 0.57
+  },
+  {
+    "donor": "Austria",
+    "recip": "Central African Republic",
+    "weight": 0.44
+  },
+  {
+    "donor": "Austria",
+    "recip": "Chile",
+    "weight": 6.3
+  },
+  {
+    "donor": "Austria",
+    "recip": "China (People's Republic of)",
+    "weight": 30.150000000000002
+  },
+  {
+    "donor": "Austria",
+    "recip": "Chinese Taipei",
+    "weight": 23.879999999999995
+  },
+  {
+    "donor": "Austria",
+    "recip": "Colombia",
+    "weight": 4.709999999999999
+  },
+  {
+    "donor": "Austria",
+    "recip": "Congo",
+    "weight": 0.15
+  },
+  {
+    "donor": "Austria",
+    "recip": "Costa Rica",
+    "weight": 0.65
+  },
+  {
+    "donor": "Austria",
+    "recip": "Cote d'Ivoire",
+    "weight": 0.46
+  },
+  {
+    "donor": "Austria",
+    "recip": "Cuba",
+    "weight": 0.5000000000000001
+  },
+  {
+    "donor": "Austria",
+    "recip": "Cyprus",
+    "weight": 5.1
+  },
+  {
+    "donor": "Austria",
+    "recip": "Democratic People's Republic of Korea",
+    "weight": 0.21
+  },
+  {
+    "donor": "Austria",
+    "recip": "Democratic Republic of the Congo",
+    "weight": 4.01
+  },
+  {
+    "donor": "Austria",
+    "recip": "Dominica",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Austria",
+    "recip": "Dominican Republic",
+    "weight": 0.3
+  },
+  {
+    "donor": "Austria",
+    "recip": "Ecuador",
+    "weight": 5.710000000000001
+  },
+  {
+    "donor": "Austria",
+    "recip": "Egypt",
+    "weight": 3734.1400000000003
+  },
+  {
+    "donor": "Austria",
+    "recip": "El Salvador",
+    "weight": 2.44
+  },
+  {
+    "donor": "Austria",
+    "recip": "Equatorial Guinea",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Austria",
+    "recip": "Eswatini",
+    "weight": 0.15000000000000002
+  },
+  {
+    "donor": "Austria",
+    "recip": "Ethiopia",
+    "weight": 11.43
+  },
+  {
+    "donor": "Austria",
+    "recip": "Gambia",
+    "weight": 0.25
+  },
+  {
+    "donor": "Austria",
+    "recip": "Ghana",
+    "weight": 6.89
+  },
+  {
+    "donor": "Austria",
+    "recip": "Guatemala",
+    "weight": 4.7
+  },
+  {
+    "donor": "Austria",
+    "recip": "Guinea",
+    "weight": 0.6900000000000001
+  },
+  {
+    "donor": "Austria",
+    "recip": "Guinea-Bissau",
+    "weight": 0.15
+  },
+  {
+    "donor": "Austria",
+    "recip": "Guyana",
+    "weight": 0.15
+  },
+  {
+    "donor": "Austria",
+    "recip": "Haiti",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Austria",
+    "recip": "Honduras",
+    "weight": 0.16
+  },
+  {
+    "donor": "Austria",
+    "recip": "Hong Kong (China)",
+    "weight": 0.8700000000000001
+  },
+  {
+    "donor": "Austria",
+    "recip": "India",
+    "weight": 10.99
+  },
+  {
+    "donor": "Austria",
+    "recip": "Indonesia",
+    "weight": 715.97
+  },
+  {
+    "donor": "Austria",
+    "recip": "Iran",
+    "weight": 94.11
+  },
+  {
+    "donor": "Austria",
+    "recip": "Iraq",
+    "weight": 29.259999999999998
+  },
+  {
+    "donor": "Austria",
+    "recip": "Israel",
+    "weight": 13.370000000000001
+  },
+  {
+    "donor": "Austria",
+    "recip": "Jamaica",
+    "weight": 0.16
+  },
+  {
+    "donor": "Austria",
+    "recip": "Jordan",
+    "weight": 3.9500000000000006
+  },
+  {
+    "donor": "Austria",
+    "recip": "Kenya",
+    "weight": 19.330000000000002
+  },
+  {
+    "donor": "Austria",
+    "recip": "Korea",
+    "weight": 32.7
+  },
+  {
+    "donor": "Austria",
+    "recip": "Kuwait",
+    "weight": 0.21
+  },
+  {
+    "donor": "Austria",
+    "recip": "Lebanon",
+    "weight": 4.43
+  },
+  {
+    "donor": "Austria",
+    "recip": "Liberia",
+    "weight": 1.1
+  },
+  {
+    "donor": "Austria",
+    "recip": "Libya",
+    "weight": 0.72
+  },
+  {
+    "donor": "Austria",
+    "recip": "Madagascar",
+    "weight": 0.3
+  },
+  {
+    "donor": "Austria",
+    "recip": "Malawi",
+    "weight": 168.76
+  },
+  {
+    "donor": "Austria",
+    "recip": "Malaysia",
+    "weight": 0.48000000000000004
+  },
+  {
+    "donor": "Austria",
+    "recip": "Maldives",
+    "weight": 0.15
+  },
+  {
+    "donor": "Austria",
+    "recip": "Mali",
+    "weight": 0.8500000000000001
+  },
+  {
+    "donor": "Austria",
+    "recip": "Malta",
+    "weight": 0.21000000000000002
+  },
+  {
+    "donor": "Austria",
+    "recip": "Mauritania",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Austria",
+    "recip": "Mauritius",
+    "weight": 0.04
+  },
+  {
+    "donor": "Austria",
+    "recip": "Mexico",
+    "weight": 4.59
+  },
+  {
+    "donor": "Austria",
+    "recip": "Mongolia",
+    "weight": 0.31
+  },
+  {
+    "donor": "Austria",
+    "recip": "Morocco",
+    "weight": 1.83
+  },
+  {
+    "donor": "Austria",
+    "recip": "Mozambique",
+    "weight": 22.38
+  },
+  {
+    "donor": "Austria",
+    "recip": "Namibia",
+    "weight": 0.78
+  },
+  {
+    "donor": "Austria",
+    "recip": "Nepal",
+    "weight": 5.8500000000000005
+  },
+  {
+    "donor": "Austria",
+    "recip": "Nicaragua",
+    "weight": 23.17
+  },
+  {
+    "donor": "Austria",
+    "recip": "Niger",
+    "weight": 0.31000000000000005
+  },
+  {
+    "donor": "Austria",
+    "recip": "Nigeria",
+    "weight": 23.270000000000003
+  },
+  {
+    "donor": "Austria",
+    "recip": "Pakistan",
+    "weight": 7.76
+  },
+  {
+    "donor": "Austria",
+    "recip": "Papua New Guinea",
+    "weight": 2.12
+  },
+  {
+    "donor": "Austria",
+    "recip": "Peru",
+    "weight": 7.33
+  },
+  {
+    "donor": "Austria",
+    "recip": "Philippines",
+    "weight": 3.58
+  },
+  {
+    "donor": "Austria",
+    "recip": "Rwanda",
+    "weight": 24.910000000000004
+  },
+  {
+    "donor": "Austria",
+    "recip": "Saudi Arabia",
+    "weight": 1.5
+  },
+  {
+    "donor": "Austria",
+    "recip": "Senegal",
+    "weight": 5.789999999999999
+  },
+  {
+    "donor": "Austria",
+    "recip": "Seychelles",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Austria",
+    "recip": "Sierra Leone",
+    "weight": 0.25
+  },
+  {
+    "donor": "Austria",
+    "recip": "Singapore",
+    "weight": 0.21000000000000002
+  },
+  {
+    "donor": "Austria",
+    "recip": "Somalia",
+    "weight": 7.550000000000001
+  },
+  {
+    "donor": "Austria",
+    "recip": "Sri Lanka",
+    "weight": 3.72
+  },
+  {
+    "donor": "Austria",
+    "recip": "Sudan",
+    "weight": 9.21
+  },
+  {
+    "donor": "Austria",
+    "recip": "Syrian Arab Republic",
+    "weight": 7.02
+  },
+  {
+    "donor": "Austria",
+    "recip": "Tanzania",
+    "weight": 91.06
+  },
+  {
+    "donor": "Austria",
+    "recip": "Thailand",
+    "weight": 25.24
+  },
+  {
+    "donor": "Austria",
+    "recip": "Togo",
+    "weight": 0.63
+  },
+  {
+    "donor": "Austria",
+    "recip": "Trinidad and Tobago",
+    "weight": 0.15
+  },
+  {
+    "donor": "Austria",
+    "recip": "Tunisia",
+    "weight": 7.39
+  },
+  {
+    "donor": "Austria",
+    "recip": "Turkey",
+    "weight": 128.32
+  },
+  {
+    "donor": "Austria",
+    "recip": "Uganda",
+    "weight": 66.88000000000001
+  },
+  {
+    "donor": "Austria",
+    "recip": "Uruguay",
+    "weight": 0.42000000000000004
+  },
+  {
+    "donor": "Austria",
+    "recip": "Venezuela",
+    "weight": 1.14
+  },
+  {
+    "donor": "Austria",
+    "recip": "Viet Nam",
+    "weight": 3.39
+  },
+  {
+    "donor": "Austria",
+    "recip": "Yemen",
+    "weight": 8.01
+  },
+  {
+    "donor": "Austria",
+    "recip": "Zambia",
+    "weight": 1.04
+  },
+  {
+    "donor": "Austria",
+    "recip": "Zimbabwe",
+    "weight": 9.83
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Afghanistan",
+    "weight": 0.04
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Algeria",
+    "weight": 10.879999999999999
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Angola",
+    "weight": 19.46
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Argentina",
+    "weight": 3.5999999999999996
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Bangladesh",
+    "weight": 47.38
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Benin",
+    "weight": 6.380000000000001
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Bhutan",
+    "weight": 0.04
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Bolivia",
+    "weight": 31.18
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Botswana",
+    "weight": 0.5800000000000001
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Brazil",
+    "weight": 13.96
+  },
+  {
+    "donor": "Belgium",
+    "recip": "British Virgin Islands",
+    "weight": 0.04
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Burkina Faso",
+    "weight": 14.0
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Burundi",
+    "weight": 189.52
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Cabo Verde",
+    "weight": 17.02
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Cambodia",
+    "weight": 1.6400000000000001
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Cameroon",
+    "weight": 20.72
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Central African Republic",
+    "weight": 0.28
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Chad",
+    "weight": 1.82
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Chile",
+    "weight": 15.540000000000001
+  },
+  {
+    "donor": "Belgium",
+    "recip": "China (People's Republic of)",
+    "weight": 21.72
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Chinese Taipei",
+    "weight": 0.38
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Colombia",
+    "weight": 7.76
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Comoros",
+    "weight": 0.43999999999999995
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Congo",
+    "weight": 3.9799999999999995
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Costa Rica",
+    "weight": 1.1600000000000001
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Cote d'Ivoire",
+    "weight": 21.619999999999997
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Democratic People's Republic of Korea",
+    "weight": 0.68
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Democratic Republic of the Congo",
+    "weight": 457.26
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Djibouti",
+    "weight": 0.1
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Dominica",
+    "weight": 0.2
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Dominican Republic",
+    "weight": 1.1600000000000001
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Ecuador",
+    "weight": 16.98
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Egypt",
+    "weight": 33.0
+  },
+  {
+    "donor": "Belgium",
+    "recip": "El Salvador",
+    "weight": 4.36
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Equatorial Guinea",
+    "weight": 0.5800000000000001
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Eswatini",
+    "weight": 0.04
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Ethiopia",
+    "weight": 21.82
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Gabon",
+    "weight": 9.06
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Gambia",
+    "weight": 1.34
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Ghana",
+    "weight": 1.0
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Guatemala",
+    "weight": 6.04
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Guinea",
+    "weight": 2.5
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Guinea-Bissau",
+    "weight": 0.44
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Haiti",
+    "weight": 10.120000000000001
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Honduras",
+    "weight": 4.9
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Hong Kong (China)",
+    "weight": 0.28
+  },
+  {
+    "donor": "Belgium",
+    "recip": "India",
+    "weight": 43.5
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Indonesia",
+    "weight": 31.120000000000005
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Iran",
+    "weight": 0.04
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Iraq",
+    "weight": 0.04
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Israel",
+    "weight": 0.34
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Jamaica",
+    "weight": 0.52
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Jordan",
+    "weight": 0.68
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Kenya",
+    "weight": 36.36
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Korea",
+    "weight": 0.04
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 1.1
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Lebanon",
+    "weight": 1.2
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Lesotho",
+    "weight": 0.04
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Liberia",
+    "weight": 0.1
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Madagascar",
+    "weight": 2.2
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Malawi",
+    "weight": 21.619999999999997
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Malaysia",
+    "weight": 3.12
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Mali",
+    "weight": 21.14
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Mauritania",
+    "weight": 1.8800000000000003
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Mexico",
+    "weight": 18.66
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Morocco",
+    "weight": 14.779999999999998
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Mozambique",
+    "weight": 3.36
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Myanmar",
+    "weight": 0.1
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Namibia",
+    "weight": 0.28
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Nepal",
+    "weight": 0.52
+  },
+  {
+    "donor": "Belgium",
+    "recip": "New Caledonia",
+    "weight": 0.04
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Nicaragua",
+    "weight": 8.06
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Niger",
+    "weight": 22.1
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Nigeria",
+    "weight": 3.7800000000000002
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Oman",
+    "weight": 0.04
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Pakistan",
+    "weight": 2.64
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Panama",
+    "weight": 0.34
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Papua New Guinea",
+    "weight": 0.9199999999999999
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Paraguay",
+    "weight": 1.9599999999999997
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Peru",
+    "weight": 18.42
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Philippines",
+    "weight": 23.680000000000003
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Rwanda",
+    "weight": 208.08
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Saint Lucia",
+    "weight": 0.14
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Sao Tome and Principe",
+    "weight": 0.14
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Senegal",
+    "weight": 48.3
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Seychelles",
+    "weight": 24.79
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Sierra Leone",
+    "weight": 0.24000000000000002
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Somalia",
+    "weight": 38.419999999999995
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Sri Lanka",
+    "weight": 5.18
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Sudan",
+    "weight": 3.9799999999999995
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Suriname",
+    "weight": 23.16
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Tanzania",
+    "weight": 68.39
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Thailand",
+    "weight": 20.38
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Togo",
+    "weight": 8.92
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Tunisia",
+    "weight": 37.459999999999994
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Turkey",
+    "weight": 28.959999999999997
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Uganda",
+    "weight": 50.599999999999994
+  },
+  {
+    "donor": "Belgium",
+    "recip": "United Arab Emirates",
+    "weight": 0.04
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Uruguay",
+    "weight": 3.26
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Venezuela",
+    "weight": 1.7800000000000002
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Viet Nam",
+    "weight": 1.48
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Zambia",
+    "weight": 17.94
+  },
+  {
+    "donor": "Belgium",
+    "recip": "Zimbabwe",
+    "weight": 4.9399999999999995
+  },
+  {
+    "donor": "Canada",
+    "recip": "Afghanistan",
+    "weight": 24.92
+  },
+  {
+    "donor": "Canada",
+    "recip": "Algeria",
+    "weight": 28.14
+  },
+  {
+    "donor": "Canada",
+    "recip": "Angola",
+    "weight": 20.430000000000003
+  },
+  {
+    "donor": "Canada",
+    "recip": "Antigua and Barbuda",
+    "weight": 19.7
+  },
+  {
+    "donor": "Canada",
+    "recip": "Argentina",
+    "weight": 11.280000000000001
+  },
+  {
+    "donor": "Canada",
+    "recip": "Bahamas",
+    "weight": 1.0
+  },
+  {
+    "donor": "Canada",
+    "recip": "Bangladesh",
+    "weight": 564.19
+  },
+  {
+    "donor": "Canada",
+    "recip": "Barbados",
+    "weight": 3.16
+  },
+  {
+    "donor": "Canada",
+    "recip": "Belize",
+    "weight": 4.02
+  },
+  {
+    "donor": "Canada",
+    "recip": "Benin",
+    "weight": 9.82
+  },
+  {
+    "donor": "Canada",
+    "recip": "Bhutan",
+    "weight": 19.73
+  },
+  {
+    "donor": "Canada",
+    "recip": "Bolivia",
+    "weight": 48.580000000000005
+  },
+  {
+    "donor": "Canada",
+    "recip": "Botswana",
+    "weight": 47.620000000000005
+  },
+  {
+    "donor": "Canada",
+    "recip": "Brazil",
+    "weight": 24.42
+  },
+  {
+    "donor": "Canada",
+    "recip": "British Virgin Islands",
+    "weight": 0.6
+  },
+  {
+    "donor": "Canada",
+    "recip": "Burkina Faso",
+    "weight": 98.59
+  },
+  {
+    "donor": "Canada",
+    "recip": "Burundi",
+    "weight": 26.03
+  },
+  {
+    "donor": "Canada",
+    "recip": "Cabo Verde",
+    "weight": 3.26
+  },
+  {
+    "donor": "Canada",
+    "recip": "Cambodia",
+    "weight": 15.299999999999999
+  },
+  {
+    "donor": "Canada",
+    "recip": "Cameroon",
+    "weight": 440.36
+  },
+  {
+    "donor": "Canada",
+    "recip": "Central African Republic",
+    "weight": 1.4
+  },
+  {
+    "donor": "Canada",
+    "recip": "Chad",
+    "weight": 2.36
+  },
+  {
+    "donor": "Canada",
+    "recip": "Chile",
+    "weight": 23.22
+  },
+  {
+    "donor": "Canada",
+    "recip": "China (People's Republic of)",
+    "weight": 830.9199999999998
+  },
+  {
+    "donor": "Canada",
+    "recip": "Colombia",
+    "weight": 20.259999999999998
+  },
+  {
+    "donor": "Canada",
+    "recip": "Comoros",
+    "weight": 1.1
+  },
+  {
+    "donor": "Canada",
+    "recip": "Congo",
+    "weight": 4.26
+  },
+  {
+    "donor": "Canada",
+    "recip": "Costa Rica",
+    "weight": 109.27
+  },
+  {
+    "donor": "Canada",
+    "recip": "Cote d'Ivoire",
+    "weight": 8.31
+  },
+  {
+    "donor": "Canada",
+    "recip": "Cuba",
+    "weight": 0.1
+  },
+  {
+    "donor": "Canada",
+    "recip": "Djibouti",
+    "weight": 2.66
+  },
+  {
+    "donor": "Canada",
+    "recip": "Dominica",
+    "weight": 110.84
+  },
+  {
+    "donor": "Canada",
+    "recip": "Dominican Republic",
+    "weight": 19.96
+  },
+  {
+    "donor": "Canada",
+    "recip": "Ecuador",
+    "weight": 14.540000000000001
+  },
+  {
+    "donor": "Canada",
+    "recip": "Egypt",
+    "weight": 246.2
+  },
+  {
+    "donor": "Canada",
+    "recip": "El Salvador",
+    "weight": 60.86
+  },
+  {
+    "donor": "Canada",
+    "recip": "Equatorial Guinea",
+    "weight": 1.6
+  },
+  {
+    "donor": "Canada",
+    "recip": "Eswatini",
+    "weight": 10.82
+  },
+  {
+    "donor": "Canada",
+    "recip": "Ethiopia",
+    "weight": 91.11999999999999
+  },
+  {
+    "donor": "Canada",
+    "recip": "Fiji",
+    "weight": 0.3
+  },
+  {
+    "donor": "Canada",
+    "recip": "Gabon",
+    "weight": 21.810000000000002
+  },
+  {
+    "donor": "Canada",
+    "recip": "Gambia",
+    "weight": 4.36
+  },
+  {
+    "donor": "Canada",
+    "recip": "Ghana",
+    "weight": 108.64
+  },
+  {
+    "donor": "Canada",
+    "recip": "Grenada",
+    "weight": 57.5
+  },
+  {
+    "donor": "Canada",
+    "recip": "Guatemala",
+    "weight": 5.16
+  },
+  {
+    "donor": "Canada",
+    "recip": "Guinea",
+    "weight": 44.66
+  },
+  {
+    "donor": "Canada",
+    "recip": "Guinea-Bissau",
+    "weight": 4.46
+  },
+  {
+    "donor": "Canada",
+    "recip": "Guyana",
+    "weight": 46.28
+  },
+  {
+    "donor": "Canada",
+    "recip": "Haiti",
+    "weight": 27.72
+  },
+  {
+    "donor": "Canada",
+    "recip": "Honduras",
+    "weight": 25.560000000000002
+  },
+  {
+    "donor": "Canada",
+    "recip": "India",
+    "weight": 59.4
+  },
+  {
+    "donor": "Canada",
+    "recip": "Indonesia",
+    "weight": 217.63
+  },
+  {
+    "donor": "Canada",
+    "recip": "Iraq",
+    "weight": 15.740000000000002
+  },
+  {
+    "donor": "Canada",
+    "recip": "Israel",
+    "weight": 8.32
+  },
+  {
+    "donor": "Canada",
+    "recip": "Jamaica",
+    "weight": 122.88999999999999
+  },
+  {
+    "donor": "Canada",
+    "recip": "Jordan",
+    "weight": 16.73
+  },
+  {
+    "donor": "Canada",
+    "recip": "Kenya",
+    "weight": 106.20000000000002
+  },
+  {
+    "donor": "Canada",
+    "recip": "Korea",
+    "weight": 0.56
+  },
+  {
+    "donor": "Canada",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 7.92
+  },
+  {
+    "donor": "Canada",
+    "recip": "Lebanon",
+    "weight": 5.02
+  },
+  {
+    "donor": "Canada",
+    "recip": "Lesotho",
+    "weight": 34.4
+  },
+  {
+    "donor": "Canada",
+    "recip": "Liberia",
+    "weight": 8.879999999999999
+  },
+  {
+    "donor": "Canada",
+    "recip": "Madagascar",
+    "weight": 17.490000000000002
+  },
+  {
+    "donor": "Canada",
+    "recip": "Malawi",
+    "weight": 74.74000000000001
+  },
+  {
+    "donor": "Canada",
+    "recip": "Malaysia",
+    "weight": 49.53
+  },
+  {
+    "donor": "Canada",
+    "recip": "Maldives",
+    "weight": 0.8600000000000001
+  },
+  {
+    "donor": "Canada",
+    "recip": "Mali",
+    "weight": 170.0
+  },
+  {
+    "donor": "Canada",
+    "recip": "Mauritania",
+    "weight": 2.8
+  },
+  {
+    "donor": "Canada",
+    "recip": "Mauritius",
+    "weight": 1.16
+  },
+  {
+    "donor": "Canada",
+    "recip": "Mexico",
+    "weight": 25.060000000000002
+  },
+  {
+    "donor": "Canada",
+    "recip": "Montserrat",
+    "weight": 0.5
+  },
+  {
+    "donor": "Canada",
+    "recip": "Morocco",
+    "weight": 191.59
+  },
+  {
+    "donor": "Canada",
+    "recip": "Mozambique",
+    "weight": 94.3
+  },
+  {
+    "donor": "Canada",
+    "recip": "Myanmar",
+    "weight": 20.6
+  },
+  {
+    "donor": "Canada",
+    "recip": "Namibia",
+    "weight": 11.64
+  },
+  {
+    "donor": "Canada",
+    "recip": "Nepal",
+    "weight": 46.22
+  },
+  {
+    "donor": "Canada",
+    "recip": "Nicaragua",
+    "weight": 7.02
+  },
+  {
+    "donor": "Canada",
+    "recip": "Niger",
+    "weight": 35.87
+  },
+  {
+    "donor": "Canada",
+    "recip": "Nigeria",
+    "weight": 8.28
+  },
+  {
+    "donor": "Canada",
+    "recip": "Pakistan",
+    "weight": 398.18
+  },
+  {
+    "donor": "Canada",
+    "recip": "Panama",
+    "weight": 2.1
+  },
+  {
+    "donor": "Canada",
+    "recip": "Paraguay",
+    "weight": 0.8
+  },
+  {
+    "donor": "Canada",
+    "recip": "Peru",
+    "weight": 102.55000000000001
+  },
+  {
+    "donor": "Canada",
+    "recip": "Philippines",
+    "weight": 77.7
+  },
+  {
+    "donor": "Canada",
+    "recip": "Rwanda",
+    "weight": 68.30999999999999
+  },
+  {
+    "donor": "Canada",
+    "recip": "Saint Kitts and Nevis",
+    "weight": 2.0
+  },
+  {
+    "donor": "Canada",
+    "recip": "Saint Lucia",
+    "weight": 13.58
+  },
+  {
+    "donor": "Canada",
+    "recip": "Saint Vincent and the Grenadines",
+    "weight": 1.46
+  },
+  {
+    "donor": "Canada",
+    "recip": "Samoa",
+    "weight": 0.1
+  },
+  {
+    "donor": "Canada",
+    "recip": "Sao Tome and Principe",
+    "weight": 1.4
+  },
+  {
+    "donor": "Canada",
+    "recip": "Senegal",
+    "weight": 190.12
+  },
+  {
+    "donor": "Canada",
+    "recip": "Seychelles",
+    "weight": 0.6
+  },
+  {
+    "donor": "Canada",
+    "recip": "Sierra Leone",
+    "weight": 2.6
+  },
+  {
+    "donor": "Canada",
+    "recip": "Singapore",
+    "weight": 3.5600000000000005
+  },
+  {
+    "donor": "Canada",
+    "recip": "Somalia",
+    "weight": 80.22
+  },
+  {
+    "donor": "Canada",
+    "recip": "Sri Lanka",
+    "weight": 122.73
+  },
+  {
+    "donor": "Canada",
+    "recip": "Sudan",
+    "weight": 102.68
+  },
+  {
+    "donor": "Canada",
+    "recip": "Suriname",
+    "weight": 0.6
+  },
+  {
+    "donor": "Canada",
+    "recip": "Syrian Arab Republic",
+    "weight": 0.26
+  },
+  {
+    "donor": "Canada",
+    "recip": "Tanzania",
+    "weight": 157.37
+  },
+  {
+    "donor": "Canada",
+    "recip": "Thailand",
+    "weight": 40.96
+  },
+  {
+    "donor": "Canada",
+    "recip": "Togo",
+    "weight": 9.8
+  },
+  {
+    "donor": "Canada",
+    "recip": "Trinidad and Tobago",
+    "weight": 4.36
+  },
+  {
+    "donor": "Canada",
+    "recip": "Tunisia",
+    "weight": 16.7
+  },
+  {
+    "donor": "Canada",
+    "recip": "Turkey",
+    "weight": 9.120000000000001
+  },
+  {
+    "donor": "Canada",
+    "recip": "Turks and Caicos Islands",
+    "weight": 0.46
+  },
+  {
+    "donor": "Canada",
+    "recip": "Uganda",
+    "weight": 32.04
+  },
+  {
+    "donor": "Canada",
+    "recip": "Uruguay",
+    "weight": 5.16
+  },
+  {
+    "donor": "Canada",
+    "recip": "Venezuela",
+    "weight": 13.34
+  },
+  {
+    "donor": "Canada",
+    "recip": "Viet Nam",
+    "weight": 20.66
+  },
+  {
+    "donor": "Canada",
+    "recip": "Yemen",
+    "weight": 3.66
+  },
+  {
+    "donor": "Canada",
+    "recip": "Zambia",
+    "weight": 87.88
+  },
+  {
+    "donor": "Canada",
+    "recip": "Zimbabwe",
+    "weight": 128.09
+  },
+  {
+    "donor": "Caribbean Development Bank [CarDB]",
+    "recip": "Anguilla",
+    "weight": 0.45999999999999996
+  },
+  {
+    "donor": "Caribbean Development Bank [CarDB]",
+    "recip": "Barbados",
+    "weight": 0.32
+  },
+  {
+    "donor": "Caribbean Development Bank [CarDB]",
+    "recip": "Belize",
+    "weight": 20.149999999999995
+  },
+  {
+    "donor": "Caribbean Development Bank [CarDB]",
+    "recip": "British Virgin Islands",
+    "weight": 0.1
+  },
+  {
+    "donor": "Caribbean Development Bank [CarDB]",
+    "recip": "Cayman Islands",
+    "weight": 1.8200000000000003
+  },
+  {
+    "donor": "Caribbean Development Bank [CarDB]",
+    "recip": "Dominica",
+    "weight": 44.47
+  },
+  {
+    "donor": "Caribbean Development Bank [CarDB]",
+    "recip": "Grenada",
+    "weight": 9.16
+  },
+  {
+    "donor": "Caribbean Development Bank [CarDB]",
+    "recip": "Guyana",
+    "weight": 23.380000000000003
+  },
+  {
+    "donor": "Caribbean Development Bank [CarDB]",
+    "recip": "Jamaica",
+    "weight": 7.4399999999999995
+  },
+  {
+    "donor": "Caribbean Development Bank [CarDB]",
+    "recip": "Montserrat",
+    "weight": 2.48
+  },
+  {
+    "donor": "Caribbean Development Bank [CarDB]",
+    "recip": "Saint Kitts and Nevis",
+    "weight": 36.660000000000004
+  },
+  {
+    "donor": "Caribbean Development Bank [CarDB]",
+    "recip": "Saint Lucia",
+    "weight": 9.16
+  },
+  {
+    "donor": "Caribbean Development Bank [CarDB]",
+    "recip": "Saint Vincent and the Grenadines",
+    "weight": 9.5
+  },
+  {
+    "donor": "Caribbean Development Bank [CarDB]",
+    "recip": "Turks and Caicos Islands",
+    "weight": 4.82
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Afghanistan",
+    "weight": 22.08
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Angola",
+    "weight": 3.8400000000000007
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Bangladesh",
+    "weight": 225.26999999999998
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Belize",
+    "weight": 2.61
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Benin",
+    "weight": 2.31
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Bhutan",
+    "weight": 40.660000000000004
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Bolivia",
+    "weight": 23.060000000000002
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Botswana",
+    "weight": 9.93
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Brazil",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Burkina Faso",
+    "weight": 73.26
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Cabo Verde",
+    "weight": 5.619999999999999
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Cambodia",
+    "weight": 3.4800000000000004
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Central African Republic",
+    "weight": 0.66
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Chile",
+    "weight": 15.51
+  },
+  {
+    "donor": "Denmark",
+    "recip": "China (People's Republic of)",
+    "weight": 8.129999999999999
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Costa Rica",
+    "weight": 8.49
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Cote d'Ivoire",
+    "weight": 0.21000000000000002
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Ecuador",
+    "weight": 9.21
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Egypt",
+    "weight": 34.38
+  },
+  {
+    "donor": "Denmark",
+    "recip": "El Salvador",
+    "weight": 9.72
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Eswatini",
+    "weight": 0.66
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Ethiopia",
+    "weight": 67.52000000000001
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Gambia",
+    "weight": 0.15
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Ghana",
+    "weight": 126.38
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Guatemala",
+    "weight": 11.409999999999998
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Guinea",
+    "weight": 0.6599999999999999
+  },
+  {
+    "donor": "Denmark",
+    "recip": "India",
+    "weight": 125.91
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Indonesia",
+    "weight": 66.28
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Kenya",
+    "weight": 45.64
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Lesotho",
+    "weight": 17.85
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Malawi",
+    "weight": 11.97
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Malaysia",
+    "weight": 0.5700000000000001
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Mali",
+    "weight": 0.45
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Mauritania",
+    "weight": 23.880000000000003
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Mongolia",
+    "weight": 53.940000000000005
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Mozambique",
+    "weight": 140.0
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Namibia",
+    "weight": 58.99000000000001
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Nepal",
+    "weight": 169.54000000000002
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Nicaragua",
+    "weight": 59.89
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Niger",
+    "weight": 32.989999999999995
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Nigeria",
+    "weight": 6.3
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Pakistan",
+    "weight": 4.71
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Peru",
+    "weight": 11.099999999999998
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Philippines",
+    "weight": 1.6800000000000002
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Rwanda",
+    "weight": 23.339999999999996
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Sierra Leone",
+    "weight": 2.67
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Sri Lanka",
+    "weight": 3.54
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Sudan",
+    "weight": 27.910000000000004
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Tanzania",
+    "weight": 451.79
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Thailand",
+    "weight": 12.589999999999998
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Uganda",
+    "weight": 318.38000000000005
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Viet Nam",
+    "weight": 77.19
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Yemen",
+    "weight": 4.32
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Zambia",
+    "weight": 158.9
+  },
+  {
+    "donor": "Denmark",
+    "recip": "Zimbabwe",
+    "weight": 216.47
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Afghanistan",
+    "weight": 137.18
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Albania",
+    "weight": 1114.38
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Algeria",
+    "weight": 495.56000000000006
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Angola",
+    "weight": 318.38
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Anguilla",
+    "weight": 10.600000000000001
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Antigua and Barbuda",
+    "weight": 14.37
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Argentina",
+    "weight": 27.17
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Aruba",
+    "weight": 1.0
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Bangladesh",
+    "weight": 477.62
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Barbados",
+    "weight": 3.23
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Belize",
+    "weight": 52.66
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Benin",
+    "weight": 88.99000000000001
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Bhutan",
+    "weight": 71.02
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Bolivia",
+    "weight": 262.94
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Botswana",
+    "weight": 72.12
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Brazil",
+    "weight": 150.55
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "British Virgin Islands",
+    "weight": 6.66
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Brunei Darussalam",
+    "weight": 0.21000000000000002
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Burkina Faso",
+    "weight": 155.85000000000002
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Burundi",
+    "weight": 378.94000000000005
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Cabo Verde",
+    "weight": 61.68
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Cambodia",
+    "weight": 126.7
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Cameroon",
+    "weight": 697.86
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Cayman Islands",
+    "weight": 4.889999999999999
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Central African Republic",
+    "weight": 46.1
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Chad",
+    "weight": 300.95
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Chile",
+    "weight": 166.45999999999998
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "China (People's Republic of)",
+    "weight": 61.609999999999985
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Colombia",
+    "weight": 143.28
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Comoros",
+    "weight": 39.9
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Congo",
+    "weight": 104.08999999999999
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Costa Rica",
+    "weight": 10.4
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Cote d'Ivoire",
+    "weight": 628.2199999999999
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Cuba",
+    "weight": 6.72
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Cyprus",
+    "weight": 34.5
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Djibouti",
+    "weight": 80.59
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Dominica",
+    "weight": 30.07
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Dominican Republic",
+    "weight": 312.69
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Ecuador",
+    "weight": 21.18
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Egypt",
+    "weight": 938.3299999999999
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "El Salvador",
+    "weight": 365.34
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Equatorial Guinea",
+    "weight": 51.39
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Eswatini",
+    "weight": 126.98
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Ethiopia",
+    "weight": 1191.35
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Fiji",
+    "weight": 14.5
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "French Polynesia",
+    "weight": 1.95
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Gabon",
+    "weight": 15.219999999999999
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Gambia",
+    "weight": 14.28
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Ghana",
+    "weight": 149.22
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Grenada",
+    "weight": 27.299999999999997
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Guatemala",
+    "weight": 97.86
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Guinea",
+    "weight": 643.1200000000001
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Guinea-Bissau",
+    "weight": 145.35000000000002
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Guyana",
+    "weight": 33.36
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Haiti",
+    "weight": 101.14
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Honduras",
+    "weight": 71.2
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Hong Kong (China)",
+    "weight": 15.42
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "India",
+    "weight": 360.33
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Indonesia",
+    "weight": 212.98
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Iran",
+    "weight": 12.26
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Iraq",
+    "weight": 30.619999999999997
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Israel",
+    "weight": 4.779999999999999
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Jamaica",
+    "weight": 191.75000000000003
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Jordan",
+    "weight": 465.89
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Kenya",
+    "weight": 326.12
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Kiribati",
+    "weight": 4.79
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 25.349999999999998
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Lebanon",
+    "weight": 68.42
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Lesotho",
+    "weight": 79.79
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Liberia",
+    "weight": 35.49
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Madagascar",
+    "weight": 245.29000000000002
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Malawi",
+    "weight": 232.25
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Malaysia",
+    "weight": 32.32
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Maldives",
+    "weight": 3.02
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Mali",
+    "weight": 138.60999999999999
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Mauritania",
+    "weight": 151.75
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Mauritius",
+    "weight": 68.35000000000001
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Mayotte",
+    "weight": 6.3999999999999995
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Mexico",
+    "weight": 65.06
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Mongolia",
+    "weight": 14.400000000000002
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Montserrat",
+    "weight": 0.9
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Morocco",
+    "weight": 15.64
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Mozambique",
+    "weight": 847.52
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Namibia",
+    "weight": 95.75000000000001
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Nepal",
+    "weight": 11.920000000000002
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Netherlands Antilles",
+    "weight": 54.57
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "New Caledonia",
+    "weight": 3.7
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Nicaragua",
+    "weight": 183.21000000000004
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Niger",
+    "weight": 119.89999999999999
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Nigeria",
+    "weight": 1157.14
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Oman",
+    "weight": 0.1
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Pakistan",
+    "weight": 423.08000000000004
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Panama",
+    "weight": 4.56
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Papua New Guinea",
+    "weight": 133.58
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Paraguay",
+    "weight": 9.94
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Peru",
+    "weight": 257.37
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Philippines",
+    "weight": 322.81000000000006
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Qatar",
+    "weight": 0.94
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Rwanda",
+    "weight": 312.58000000000004
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Saint Kitts and Nevis",
+    "weight": 0.14
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Saint Vincent and the Grenadines",
+    "weight": 0.1
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Samoa",
+    "weight": 16.09
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Sao Tome and Principe",
+    "weight": 43.23
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Senegal",
+    "weight": 548.24
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Seychelles",
+    "weight": 3.23
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Sierra Leone",
+    "weight": 308.51000000000005
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Singapore",
+    "weight": 17.36
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Solomon Islands",
+    "weight": 24.009999999999998
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Sri Lanka",
+    "weight": 15.7
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Sudan",
+    "weight": 490.4
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Suriname",
+    "weight": 20.0
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Syrian Arab Republic",
+    "weight": 157.92
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Tanzania",
+    "weight": 727.1700000000001
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Thailand",
+    "weight": 123.44
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Togo",
+    "weight": 226.98000000000002
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Tonga",
+    "weight": 7.8999999999999995
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Trinidad and Tobago",
+    "weight": 91.67
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Tunisia",
+    "weight": 720.61
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Turkey",
+    "weight": 9.16
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Tuvalu",
+    "weight": 12.559999999999999
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Uganda",
+    "weight": 552.09
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Uruguay",
+    "weight": 18.740000000000002
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Vanuatu",
+    "weight": 6.300000000000001
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Venezuela",
+    "weight": 17.44
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Viet Nam",
+    "weight": 183.77
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Wallis and Futuna",
+    "weight": 0.52
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Yemen",
+    "weight": 94.38000000000001
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Zambia",
+    "weight": 956.3499999999999
+  },
+  {
+    "donor": "EU Institutions",
+    "recip": "Zimbabwe",
+    "weight": 481.6700000000001
+  },
+  {
+    "donor": "Finland",
+    "recip": "Afghanistan",
+    "weight": 5.68
+  },
+  {
+    "donor": "Finland",
+    "recip": "Albania",
+    "weight": 0.52
+  },
+  {
+    "donor": "Finland",
+    "recip": "Angola",
+    "weight": 1.08
+  },
+  {
+    "donor": "Finland",
+    "recip": "Argentina",
+    "weight": 0.8400000000000001
+  },
+  {
+    "donor": "Finland",
+    "recip": "Bangladesh",
+    "weight": 13.120000000000001
+  },
+  {
+    "donor": "Finland",
+    "recip": "Bolivia",
+    "weight": 0.56
+  },
+  {
+    "donor": "Finland",
+    "recip": "Botswana",
+    "weight": 0.52
+  },
+  {
+    "donor": "Finland",
+    "recip": "Brazil",
+    "weight": 0.32
+  },
+  {
+    "donor": "Finland",
+    "recip": "Burkina Faso",
+    "weight": 0.1
+  },
+  {
+    "donor": "Finland",
+    "recip": "Burundi",
+    "weight": 0.38
+  },
+  {
+    "donor": "Finland",
+    "recip": "Cambodia",
+    "weight": 7.43
+  },
+  {
+    "donor": "Finland",
+    "recip": "Cameroon",
+    "weight": 1.1
+  },
+  {
+    "donor": "Finland",
+    "recip": "Chile",
+    "weight": 0.66
+  },
+  {
+    "donor": "Finland",
+    "recip": "China (People's Republic of)",
+    "weight": 133.2
+  },
+  {
+    "donor": "Finland",
+    "recip": "Colombia",
+    "weight": 0.53
+  },
+  {
+    "donor": "Finland",
+    "recip": "Costa Rica",
+    "weight": 2.13
+  },
+  {
+    "donor": "Finland",
+    "recip": "Cote d'Ivoire",
+    "weight": 0.04
+  },
+  {
+    "donor": "Finland",
+    "recip": "Djibouti",
+    "weight": 0.38
+  },
+  {
+    "donor": "Finland",
+    "recip": "Dominican Republic",
+    "weight": 26.999999999999996
+  },
+  {
+    "donor": "Finland",
+    "recip": "Ecuador",
+    "weight": 0.38
+  },
+  {
+    "donor": "Finland",
+    "recip": "Egypt",
+    "weight": 384.46000000000004
+  },
+  {
+    "donor": "Finland",
+    "recip": "El Salvador",
+    "weight": 1.02
+  },
+  {
+    "donor": "Finland",
+    "recip": "Ethiopia",
+    "weight": 17.700000000000003
+  },
+  {
+    "donor": "Finland",
+    "recip": "Ghana",
+    "weight": 12.120000000000001
+  },
+  {
+    "donor": "Finland",
+    "recip": "Guatemala",
+    "weight": 0.66
+  },
+  {
+    "donor": "Finland",
+    "recip": "Guinea",
+    "weight": 0.7
+  },
+  {
+    "donor": "Finland",
+    "recip": "Haiti",
+    "weight": 0.52
+  },
+  {
+    "donor": "Finland",
+    "recip": "Hong Kong (China)",
+    "weight": 6.58
+  },
+  {
+    "donor": "Finland",
+    "recip": "India",
+    "weight": 60.82
+  },
+  {
+    "donor": "Finland",
+    "recip": "Indonesia",
+    "weight": 10.94
+  },
+  {
+    "donor": "Finland",
+    "recip": "Iran",
+    "weight": 3.51
+  },
+  {
+    "donor": "Finland",
+    "recip": "Iraq",
+    "weight": 2.38
+  },
+  {
+    "donor": "Finland",
+    "recip": "Israel",
+    "weight": 0.74
+  },
+  {
+    "donor": "Finland",
+    "recip": "Jamaica",
+    "weight": 0.04
+  },
+  {
+    "donor": "Finland",
+    "recip": "Kenya",
+    "weight": 41.129999999999995
+  },
+  {
+    "donor": "Finland",
+    "recip": "Korea",
+    "weight": 0.42000000000000004
+  },
+  {
+    "donor": "Finland",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 0.9000000000000001
+  },
+  {
+    "donor": "Finland",
+    "recip": "Lebanon",
+    "weight": 0.1
+  },
+  {
+    "donor": "Finland",
+    "recip": "Liberia",
+    "weight": 1.02
+  },
+  {
+    "donor": "Finland",
+    "recip": "Malawi",
+    "weight": 0.46
+  },
+  {
+    "donor": "Finland",
+    "recip": "Malaysia",
+    "weight": 96.21
+  },
+  {
+    "donor": "Finland",
+    "recip": "Mali",
+    "weight": 0.04
+  },
+  {
+    "donor": "Finland",
+    "recip": "Mexico",
+    "weight": 1.02
+  },
+  {
+    "donor": "Finland",
+    "recip": "Mongolia",
+    "weight": 27.01
+  },
+  {
+    "donor": "Finland",
+    "recip": "Mozambique",
+    "weight": 94.12000000000002
+  },
+  {
+    "donor": "Finland",
+    "recip": "Namibia",
+    "weight": 68.17
+  },
+  {
+    "donor": "Finland",
+    "recip": "Nepal",
+    "weight": 76.00999999999999
+  },
+  {
+    "donor": "Finland",
+    "recip": "Nicaragua",
+    "weight": 53.94999999999999
+  },
+  {
+    "donor": "Finland",
+    "recip": "Nigeria",
+    "weight": 0.28
+  },
+  {
+    "donor": "Finland",
+    "recip": "Pakistan",
+    "weight": 0.24000000000000002
+  },
+  {
+    "donor": "Finland",
+    "recip": "Papua New Guinea",
+    "weight": 0.18
+  },
+  {
+    "donor": "Finland",
+    "recip": "Peru",
+    "weight": 0.41999999999999993
+  },
+  {
+    "donor": "Finland",
+    "recip": "Philippines",
+    "weight": 1.71
+  },
+  {
+    "donor": "Finland",
+    "recip": "Rwanda",
+    "weight": 0.43999999999999995
+  },
+  {
+    "donor": "Finland",
+    "recip": "Senegal",
+    "weight": 33.089999999999996
+  },
+  {
+    "donor": "Finland",
+    "recip": "Sierra Leone",
+    "weight": 0.04
+  },
+  {
+    "donor": "Finland",
+    "recip": "Somalia",
+    "weight": 15.34
+  },
+  {
+    "donor": "Finland",
+    "recip": "Sri Lanka",
+    "weight": 52.5
+  },
+  {
+    "donor": "Finland",
+    "recip": "Sudan",
+    "weight": 7.280000000000001
+  },
+  {
+    "donor": "Finland",
+    "recip": "Tanzania",
+    "weight": 84.49
+  },
+  {
+    "donor": "Finland",
+    "recip": "Thailand",
+    "weight": 273.46
+  },
+  {
+    "donor": "Finland",
+    "recip": "Turkey",
+    "weight": 55.500000000000014
+  },
+  {
+    "donor": "Finland",
+    "recip": "Uganda",
+    "weight": 3.46
+  },
+  {
+    "donor": "Finland",
+    "recip": "Viet Nam",
+    "weight": 28.340000000000003
+  },
+  {
+    "donor": "Finland",
+    "recip": "Yemen",
+    "weight": 0.18000000000000002
+  },
+  {
+    "donor": "Finland",
+    "recip": "Zambia",
+    "weight": 43.79
+  },
+  {
+    "donor": "Finland",
+    "recip": "Zimbabwe",
+    "weight": 4.529999999999999
+  },
+  {
+    "donor": "France",
+    "recip": "Afghanistan",
+    "weight": 8.3
+  },
+  {
+    "donor": "France",
+    "recip": "Albania",
+    "weight": 9.549999999999999
+  },
+  {
+    "donor": "France",
+    "recip": "Algeria",
+    "weight": 633.19
+  },
+  {
+    "donor": "France",
+    "recip": "Angola",
+    "weight": 350.8399999999999
+  },
+  {
+    "donor": "France",
+    "recip": "Argentina",
+    "weight": 50.68
+  },
+  {
+    "donor": "France",
+    "recip": "Bahrain",
+    "weight": 3.87
+  },
+  {
+    "donor": "France",
+    "recip": "Bangladesh",
+    "weight": 239.54000000000002
+  },
+  {
+    "donor": "France",
+    "recip": "Barbados",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "France",
+    "recip": "Benin",
+    "weight": 311.07000000000005
+  },
+  {
+    "donor": "France",
+    "recip": "Bolivia",
+    "weight": 74.16999999999999
+  },
+  {
+    "donor": "France",
+    "recip": "Botswana",
+    "weight": 12.99
+  },
+  {
+    "donor": "France",
+    "recip": "Brazil",
+    "weight": 456.11999999999995
+  },
+  {
+    "donor": "France",
+    "recip": "Brunei Darussalam",
+    "weight": 0.8700000000000001
+  },
+  {
+    "donor": "France",
+    "recip": "Burkina Faso",
+    "weight": 510.5
+  },
+  {
+    "donor": "France",
+    "recip": "Burundi",
+    "weight": 122.18
+  },
+  {
+    "donor": "France",
+    "recip": "Cabo Verde",
+    "weight": 29.640000000000008
+  },
+  {
+    "donor": "France",
+    "recip": "Cambodia",
+    "weight": 104.64
+  },
+  {
+    "donor": "France",
+    "recip": "Cameroon",
+    "weight": 2104.42
+  },
+  {
+    "donor": "France",
+    "recip": "Central African Republic",
+    "weight": 409.29999999999995
+  },
+  {
+    "donor": "France",
+    "recip": "Chad",
+    "weight": 461.62000000000006
+  },
+  {
+    "donor": "France",
+    "recip": "Chile",
+    "weight": 65.89
+  },
+  {
+    "donor": "France",
+    "recip": "China (People's Republic of)",
+    "weight": 931.42
+  },
+  {
+    "donor": "France",
+    "recip": "Chinese Taipei",
+    "weight": 12.870000000000001
+  },
+  {
+    "donor": "France",
+    "recip": "Colombia",
+    "weight": 76.71000000000001
+  },
+  {
+    "donor": "France",
+    "recip": "Comoros",
+    "weight": 110.64999999999999
+  },
+  {
+    "donor": "France",
+    "recip": "Congo",
+    "weight": 847.2
+  },
+  {
+    "donor": "France",
+    "recip": "Cook Islands",
+    "weight": 5.03
+  },
+  {
+    "donor": "France",
+    "recip": "Costa Rica",
+    "weight": 23.94
+  },
+  {
+    "donor": "France",
+    "recip": "Cote d'Ivoire",
+    "weight": 2459.84
+  },
+  {
+    "donor": "France",
+    "recip": "Cuba",
+    "weight": 7.89
+  },
+  {
+    "donor": "France",
+    "recip": "Cyprus",
+    "weight": 4.5
+  },
+  {
+    "donor": "France",
+    "recip": "Democratic People's Republic of Korea",
+    "weight": 22.259999999999998
+  },
+  {
+    "donor": "France",
+    "recip": "Democratic Republic of the Congo",
+    "weight": 44.15
+  },
+  {
+    "donor": "France",
+    "recip": "Djibouti",
+    "weight": 300.86
+  },
+  {
+    "donor": "France",
+    "recip": "Dominica",
+    "weight": 0.33
+  },
+  {
+    "donor": "France",
+    "recip": "Dominican Republic",
+    "weight": 23.589999999999996
+  },
+  {
+    "donor": "France",
+    "recip": "Ecuador",
+    "weight": 142.29
+  },
+  {
+    "donor": "France",
+    "recip": "Egypt",
+    "weight": 153.05
+  },
+  {
+    "donor": "France",
+    "recip": "El Salvador",
+    "weight": 10.370000000000001
+  },
+  {
+    "donor": "France",
+    "recip": "Equatorial Guinea",
+    "weight": 45.53999999999999
+  },
+  {
+    "donor": "France",
+    "recip": "Eswatini",
+    "weight": 1.9600000000000002
+  },
+  {
+    "donor": "France",
+    "recip": "Ethiopia",
+    "weight": 48.74
+  },
+  {
+    "donor": "France",
+    "recip": "Fiji",
+    "weight": 8.79
+  },
+  {
+    "donor": "France",
+    "recip": "French Polynesia",
+    "weight": 2027.35
+  },
+  {
+    "donor": "France",
+    "recip": "Gabon",
+    "weight": 349.08000000000004
+  },
+  {
+    "donor": "France",
+    "recip": "Gambia",
+    "weight": 4.15
+  },
+  {
+    "donor": "France",
+    "recip": "Ghana",
+    "weight": 73.09
+  },
+  {
+    "donor": "France",
+    "recip": "Gibraltar",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "France",
+    "recip": "Grenada",
+    "weight": 14.15
+  },
+  {
+    "donor": "France",
+    "recip": "Guatemala",
+    "weight": 13.41
+  },
+  {
+    "donor": "France",
+    "recip": "Guinea",
+    "weight": 319.79
+  },
+  {
+    "donor": "France",
+    "recip": "Guinea-Bissau",
+    "weight": 30.910000000000004
+  },
+  {
+    "donor": "France",
+    "recip": "Guyana",
+    "weight": 0.15000000000000002
+  },
+  {
+    "donor": "France",
+    "recip": "Haiti",
+    "weight": 33.19
+  },
+  {
+    "donor": "France",
+    "recip": "Honduras",
+    "weight": 8.18
+  },
+  {
+    "donor": "France",
+    "recip": "Hong Kong (China)",
+    "weight": 12.03
+  },
+  {
+    "donor": "France",
+    "recip": "India",
+    "weight": 216.35999999999999
+  },
+  {
+    "donor": "France",
+    "recip": "Indonesia",
+    "weight": 382.40000000000003
+  },
+  {
+    "donor": "France",
+    "recip": "Iran",
+    "weight": 51.33
+  },
+  {
+    "donor": "France",
+    "recip": "Iraq",
+    "weight": 5.21
+  },
+  {
+    "donor": "France",
+    "recip": "Israel",
+    "weight": 41.62
+  },
+  {
+    "donor": "France",
+    "recip": "Jamaica",
+    "weight": 2.83
+  },
+  {
+    "donor": "France",
+    "recip": "Jordan",
+    "weight": 158.41
+  },
+  {
+    "donor": "France",
+    "recip": "Kenya",
+    "weight": 29.310000000000002
+  },
+  {
+    "donor": "France",
+    "recip": "Korea",
+    "weight": 23.13
+  },
+  {
+    "donor": "France",
+    "recip": "Kuwait",
+    "weight": 7.5600000000000005
+  },
+  {
+    "donor": "France",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 53.95
+  },
+  {
+    "donor": "France",
+    "recip": "Lebanon",
+    "weight": 172.16
+  },
+  {
+    "donor": "France",
+    "recip": "Lesotho",
+    "weight": 0.21000000000000002
+  },
+  {
+    "donor": "France",
+    "recip": "Liberia",
+    "weight": 1.88
+  },
+  {
+    "donor": "France",
+    "recip": "Libya",
+    "weight": 5.16
+  },
+  {
+    "donor": "France",
+    "recip": "Madagascar",
+    "weight": 345.0
+  },
+  {
+    "donor": "France",
+    "recip": "Malawi",
+    "weight": 4.470000000000001
+  },
+  {
+    "donor": "France",
+    "recip": "Malaysia",
+    "weight": 12.930000000000001
+  },
+  {
+    "donor": "France",
+    "recip": "Mali",
+    "weight": 383.51
+  },
+  {
+    "donor": "France",
+    "recip": "Malta",
+    "weight": 1.1700000000000002
+  },
+  {
+    "donor": "France",
+    "recip": "Mauritania",
+    "weight": 365.02000000000004
+  },
+  {
+    "donor": "France",
+    "recip": "Mauritius",
+    "weight": 74.64
+  },
+  {
+    "donor": "France",
+    "recip": "Mayotte",
+    "weight": 388.09
+  },
+  {
+    "donor": "France",
+    "recip": "Mexico",
+    "weight": 259.76
+  },
+  {
+    "donor": "France",
+    "recip": "Mongolia",
+    "weight": 19.39
+  },
+  {
+    "donor": "France",
+    "recip": "Morocco",
+    "weight": 1176.34
+  },
+  {
+    "donor": "France",
+    "recip": "Mozambique",
+    "weight": 114.09
+  },
+  {
+    "donor": "France",
+    "recip": "Myanmar",
+    "weight": 2.31
+  },
+  {
+    "donor": "France",
+    "recip": "Namibia",
+    "weight": 33.17
+  },
+  {
+    "donor": "France",
+    "recip": "Nepal",
+    "weight": 7.120000000000001
+  },
+  {
+    "donor": "France",
+    "recip": "New Caledonia",
+    "weight": 1986.45
+  },
+  {
+    "donor": "France",
+    "recip": "Nicaragua",
+    "weight": 126.39999999999999
+  },
+  {
+    "donor": "France",
+    "recip": "Niger",
+    "weight": 385.31
+  },
+  {
+    "donor": "France",
+    "recip": "Nigeria",
+    "weight": 51.629999999999995
+  },
+  {
+    "donor": "France",
+    "recip": "Oman",
+    "weight": 3.21
+  },
+  {
+    "donor": "France",
+    "recip": "Pakistan",
+    "weight": 845.6400000000001
+  },
+  {
+    "donor": "France",
+    "recip": "Panama",
+    "weight": 3.06
+  },
+  {
+    "donor": "France",
+    "recip": "Papua New Guinea",
+    "weight": 4.2
+  },
+  {
+    "donor": "France",
+    "recip": "Paraguay",
+    "weight": 7.41
+  },
+  {
+    "donor": "France",
+    "recip": "Peru",
+    "weight": 219.51000000000002
+  },
+  {
+    "donor": "France",
+    "recip": "Philippines",
+    "weight": 66.99
+  },
+  {
+    "donor": "France",
+    "recip": "Qatar",
+    "weight": 4.41
+  },
+  {
+    "donor": "France",
+    "recip": "Rwanda",
+    "weight": 180.49
+  },
+  {
+    "donor": "France",
+    "recip": "Saint Lucia",
+    "weight": 34.41
+  },
+  {
+    "donor": "France",
+    "recip": "Saint Vincent and the Grenadines",
+    "weight": 8.780000000000001
+  },
+  {
+    "donor": "France",
+    "recip": "Samoa",
+    "weight": 1.56
+  },
+  {
+    "donor": "France",
+    "recip": "Sao Tome and Principe",
+    "weight": 81.4
+  },
+  {
+    "donor": "France",
+    "recip": "Saudi Arabia",
+    "weight": 27.269999999999996
+  },
+  {
+    "donor": "France",
+    "recip": "Senegal",
+    "weight": 1204.67
+  },
+  {
+    "donor": "France",
+    "recip": "Seychelles",
+    "weight": 30.33
+  },
+  {
+    "donor": "France",
+    "recip": "Sierra Leone",
+    "weight": 8.72
+  },
+  {
+    "donor": "France",
+    "recip": "Singapore",
+    "weight": 19.650000000000002
+  },
+  {
+    "donor": "France",
+    "recip": "Solomon Islands",
+    "weight": 10.3
+  },
+  {
+    "donor": "France",
+    "recip": "Somalia",
+    "weight": 52.53
+  },
+  {
+    "donor": "France",
+    "recip": "Sri Lanka",
+    "weight": 3.06
+  },
+  {
+    "donor": "France",
+    "recip": "Sudan",
+    "weight": 17.27
+  },
+  {
+    "donor": "France",
+    "recip": "Suriname",
+    "weight": 5.5200000000000005
+  },
+  {
+    "donor": "France",
+    "recip": "Syrian Arab Republic",
+    "weight": 88.59
+  },
+  {
+    "donor": "France",
+    "recip": "Tanzania",
+    "weight": 7.8999999999999995
+  },
+  {
+    "donor": "France",
+    "recip": "Thailand",
+    "weight": 508.39
+  },
+  {
+    "donor": "France",
+    "recip": "Togo",
+    "weight": 224.90999999999997
+  },
+  {
+    "donor": "France",
+    "recip": "Tonga",
+    "weight": 1.5
+  },
+  {
+    "donor": "France",
+    "recip": "Trinidad and Tobago",
+    "weight": 2.7899999999999996
+  },
+  {
+    "donor": "France",
+    "recip": "Tunisia",
+    "weight": 594.39
+  },
+  {
+    "donor": "France",
+    "recip": "Turkey",
+    "weight": 297.84
+  },
+  {
+    "donor": "France",
+    "recip": "Uganda",
+    "weight": 8.13
+  },
+  {
+    "donor": "France",
+    "recip": "United Arab Emirates",
+    "weight": 11.1
+  },
+  {
+    "donor": "France",
+    "recip": "Uruguay",
+    "weight": 62.650000000000006
+  },
+  {
+    "donor": "France",
+    "recip": "Vanuatu",
+    "weight": 49.76
+  },
+  {
+    "donor": "France",
+    "recip": "Venezuela",
+    "weight": 33.81
+  },
+  {
+    "donor": "France",
+    "recip": "Viet Nam",
+    "weight": 243.02
+  },
+  {
+    "donor": "France",
+    "recip": "Wallis and Futuna",
+    "weight": 1.46
+  },
+  {
+    "donor": "France",
+    "recip": "Yemen",
+    "weight": 86.07
+  },
+  {
+    "donor": "France",
+    "recip": "Zambia",
+    "weight": 17.87
+  },
+  {
+    "donor": "France",
+    "recip": "Zimbabwe",
+    "weight": 23.24
+  },
+  {
+    "donor": "Germany",
+    "recip": "Afghanistan",
+    "weight": 89.67999999999999
+  },
+  {
+    "donor": "Germany",
+    "recip": "Albania",
+    "weight": 159.75
+  },
+  {
+    "donor": "Germany",
+    "recip": "Algeria",
+    "weight": 218.90999999999997
+  },
+  {
+    "donor": "Germany",
+    "recip": "Angola",
+    "weight": 66.19
+  },
+  {
+    "donor": "Germany",
+    "recip": "Antigua and Barbuda",
+    "weight": 0.21000000000000002
+  },
+  {
+    "donor": "Germany",
+    "recip": "Argentina",
+    "weight": 282.39
+  },
+  {
+    "donor": "Germany",
+    "recip": "Bahrain",
+    "weight": 0.27
+  },
+  {
+    "donor": "Germany",
+    "recip": "Bangladesh",
+    "weight": 487.96
+  },
+  {
+    "donor": "Germany",
+    "recip": "Barbados",
+    "weight": 0.21000000000000002
+  },
+  {
+    "donor": "Germany",
+    "recip": "Belize",
+    "weight": 0.69
+  },
+  {
+    "donor": "Germany",
+    "recip": "Benin",
+    "weight": 373.82
+  },
+  {
+    "donor": "Germany",
+    "recip": "Bhutan",
+    "weight": 2.52
+  },
+  {
+    "donor": "Germany",
+    "recip": "Bolivia",
+    "weight": 401.50999999999993
+  },
+  {
+    "donor": "Germany",
+    "recip": "Botswana",
+    "weight": 193.33999999999997
+  },
+  {
+    "donor": "Germany",
+    "recip": "Brazil",
+    "weight": 556.29
+  },
+  {
+    "donor": "Germany",
+    "recip": "Brunei Darussalam",
+    "weight": 0.42000000000000004
+  },
+  {
+    "donor": "Germany",
+    "recip": "Burkina Faso",
+    "weight": 121.25999999999999
+  },
+  {
+    "donor": "Germany",
+    "recip": "Burundi",
+    "weight": 250.91000000000003
+  },
+  {
+    "donor": "Germany",
+    "recip": "Cabo Verde",
+    "weight": 56.65
+  },
+  {
+    "donor": "Germany",
+    "recip": "Cambodia",
+    "weight": 95.21
+  },
+  {
+    "donor": "Germany",
+    "recip": "Cameroon",
+    "weight": 162.89000000000001
+  },
+  {
+    "donor": "Germany",
+    "recip": "Central African Republic",
+    "weight": 135.45999999999998
+  },
+  {
+    "donor": "Germany",
+    "recip": "Chad",
+    "weight": 28.520000000000003
+  },
+  {
+    "donor": "Germany",
+    "recip": "Chile",
+    "weight": 209.07999999999998
+  },
+  {
+    "donor": "Germany",
+    "recip": "China (People's Republic of)",
+    "weight": 1352.1
+  },
+  {
+    "donor": "Germany",
+    "recip": "Chinese Taipei",
+    "weight": 41.82
+  },
+  {
+    "donor": "Germany",
+    "recip": "Colombia",
+    "weight": 382.81000000000006
+  },
+  {
+    "donor": "Germany",
+    "recip": "Comoros",
+    "weight": 8.09
+  },
+  {
+    "donor": "Germany",
+    "recip": "Congo",
+    "weight": 46.11
+  },
+  {
+    "donor": "Germany",
+    "recip": "Cook Islands",
+    "weight": 1.02
+  },
+  {
+    "donor": "Germany",
+    "recip": "Costa Rica",
+    "weight": 131.96999999999997
+  },
+  {
+    "donor": "Germany",
+    "recip": "Cote d'Ivoire",
+    "weight": 180.16
+  },
+  {
+    "donor": "Germany",
+    "recip": "Cuba",
+    "weight": 13.760000000000002
+  },
+  {
+    "donor": "Germany",
+    "recip": "Cyprus",
+    "weight": 15.359999999999998
+  },
+  {
+    "donor": "Germany",
+    "recip": "Democratic People's Republic of Korea",
+    "weight": 2.58
+  },
+  {
+    "donor": "Germany",
+    "recip": "Democratic Republic of the Congo",
+    "weight": 53.36
+  },
+  {
+    "donor": "Germany",
+    "recip": "Djibouti",
+    "weight": 2.3
+  },
+  {
+    "donor": "Germany",
+    "recip": "Dominica",
+    "weight": 4.3500000000000005
+  },
+  {
+    "donor": "Germany",
+    "recip": "Dominican Republic",
+    "weight": 43.989999999999995
+  },
+  {
+    "donor": "Germany",
+    "recip": "Ecuador",
+    "weight": 211.14999999999998
+  },
+  {
+    "donor": "Germany",
+    "recip": "Egypt",
+    "weight": 4760.820000000001
+  },
+  {
+    "donor": "Germany",
+    "recip": "El Salvador",
+    "weight": 111.4
+  },
+  {
+    "donor": "Germany",
+    "recip": "Equatorial Guinea",
+    "weight": 0.86
+  },
+  {
+    "donor": "Germany",
+    "recip": "Eswatini",
+    "weight": 10.38
+  },
+  {
+    "donor": "Germany",
+    "recip": "Ethiopia",
+    "weight": 757.3000000000001
+  },
+  {
+    "donor": "Germany",
+    "recip": "Fiji",
+    "weight": 8.58
+  },
+  {
+    "donor": "Germany",
+    "recip": "Gabon",
+    "weight": 22.65
+  },
+  {
+    "donor": "Germany",
+    "recip": "Gambia",
+    "weight": 28.709999999999997
+  },
+  {
+    "donor": "Germany",
+    "recip": "Ghana",
+    "weight": 345.6
+  },
+  {
+    "donor": "Germany",
+    "recip": "Gibraltar",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Germany",
+    "recip": "Grenada",
+    "weight": 1.2899999999999998
+  },
+  {
+    "donor": "Germany",
+    "recip": "Guatemala",
+    "weight": 94.07
+  },
+  {
+    "donor": "Germany",
+    "recip": "Guinea",
+    "weight": 39.07
+  },
+  {
+    "donor": "Germany",
+    "recip": "Guinea-Bissau",
+    "weight": 22.01
+  },
+  {
+    "donor": "Germany",
+    "recip": "Guyana",
+    "weight": 0.54
+  },
+  {
+    "donor": "Germany",
+    "recip": "Haiti",
+    "weight": 12.23
+  },
+  {
+    "donor": "Germany",
+    "recip": "Honduras",
+    "weight": 19.529999999999998
+  },
+  {
+    "donor": "Germany",
+    "recip": "Hong Kong (China)",
+    "weight": 23.24
+  },
+  {
+    "donor": "Germany",
+    "recip": "India",
+    "weight": 2223.38
+  },
+  {
+    "donor": "Germany",
+    "recip": "Indonesia",
+    "weight": 1439.3
+  },
+  {
+    "donor": "Germany",
+    "recip": "Iran",
+    "weight": 423.56
+  },
+  {
+    "donor": "Germany",
+    "recip": "Iraq",
+    "weight": 62.269999999999996
+  },
+  {
+    "donor": "Germany",
+    "recip": "Israel",
+    "weight": 658.9399999999999
+  },
+  {
+    "donor": "Germany",
+    "recip": "Jamaica",
+    "weight": 27.35
+  },
+  {
+    "donor": "Germany",
+    "recip": "Jordan",
+    "weight": 306.08
+  },
+  {
+    "donor": "Germany",
+    "recip": "Kenya",
+    "weight": 283.01000000000005
+  },
+  {
+    "donor": "Germany",
+    "recip": "Kiribati",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Germany",
+    "recip": "Korea",
+    "weight": 208.26999999999998
+  },
+  {
+    "donor": "Germany",
+    "recip": "Kuwait",
+    "weight": 1.44
+  },
+  {
+    "donor": "Germany",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 84.07999999999998
+  },
+  {
+    "donor": "Germany",
+    "recip": "Lebanon",
+    "weight": 45.599999999999994
+  },
+  {
+    "donor": "Germany",
+    "recip": "Lesotho",
+    "weight": 39.14
+  },
+  {
+    "donor": "Germany",
+    "recip": "Liberia",
+    "weight": 18.41
+  },
+  {
+    "donor": "Germany",
+    "recip": "Libya",
+    "weight": 2.8100000000000005
+  },
+  {
+    "donor": "Germany",
+    "recip": "Madagascar",
+    "weight": 165.04000000000002
+  },
+  {
+    "donor": "Germany",
+    "recip": "Malawi",
+    "weight": 253.87000000000003
+  },
+  {
+    "donor": "Germany",
+    "recip": "Malaysia",
+    "weight": 76.92
+  },
+  {
+    "donor": "Germany",
+    "recip": "Maldives",
+    "weight": 0.81
+  },
+  {
+    "donor": "Germany",
+    "recip": "Mali",
+    "weight": 87.54999999999998
+  },
+  {
+    "donor": "Germany",
+    "recip": "Malta",
+    "weight": 1.23
+  },
+  {
+    "donor": "Germany",
+    "recip": "Mauritania",
+    "weight": 126.41999999999999
+  },
+  {
+    "donor": "Germany",
+    "recip": "Mauritius",
+    "weight": 2.7899999999999996
+  },
+  {
+    "donor": "Germany",
+    "recip": "Mexico",
+    "weight": 128.85
+  },
+  {
+    "donor": "Germany",
+    "recip": "Mongolia",
+    "weight": 85.65
+  },
+  {
+    "donor": "Germany",
+    "recip": "Morocco",
+    "weight": 246.32999999999998
+  },
+  {
+    "donor": "Germany",
+    "recip": "Mozambique",
+    "weight": 547.95
+  },
+  {
+    "donor": "Germany",
+    "recip": "Myanmar",
+    "weight": 2.3600000000000003
+  },
+  {
+    "donor": "Germany",
+    "recip": "Namibia",
+    "weight": 166.35999999999996
+  },
+  {
+    "donor": "Germany",
+    "recip": "Nepal",
+    "weight": 228.45999999999998
+  },
+  {
+    "donor": "Germany",
+    "recip": "Nicaragua",
+    "weight": 371.99
+  },
+  {
+    "donor": "Germany",
+    "recip": "Niger",
+    "weight": 193.23
+  },
+  {
+    "donor": "Germany",
+    "recip": "Nigeria",
+    "weight": 112.1
+  },
+  {
+    "donor": "Germany",
+    "recip": "Northern Mariana Islands",
+    "weight": 4.3500000000000005
+  },
+  {
+    "donor": "Germany",
+    "recip": "Oman",
+    "weight": 6.720000000000001
+  },
+  {
+    "donor": "Germany",
+    "recip": "Pakistan",
+    "weight": 384.15
+  },
+  {
+    "donor": "Germany",
+    "recip": "Panama",
+    "weight": 36.17
+  },
+  {
+    "donor": "Germany",
+    "recip": "Papua New Guinea",
+    "weight": 50.24
+  },
+  {
+    "donor": "Germany",
+    "recip": "Paraguay",
+    "weight": 86.18
+  },
+  {
+    "donor": "Germany",
+    "recip": "Peru",
+    "weight": 168.27
+  },
+  {
+    "donor": "Germany",
+    "recip": "Philippines",
+    "weight": 507.52
+  },
+  {
+    "donor": "Germany",
+    "recip": "Qatar",
+    "weight": 0.21000000000000002
+  },
+  {
+    "donor": "Germany",
+    "recip": "Rwanda",
+    "weight": 178.36999999999998
+  },
+  {
+    "donor": "Germany",
+    "recip": "Saint Kitts and Nevis",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Germany",
+    "recip": "Saint Lucia",
+    "weight": 0.15000000000000002
+  },
+  {
+    "donor": "Germany",
+    "recip": "Saint Vincent and the Grenadines",
+    "weight": 0.21000000000000002
+  },
+  {
+    "donor": "Germany",
+    "recip": "Samoa",
+    "weight": 1.81
+  },
+  {
+    "donor": "Germany",
+    "recip": "Sao Tome and Principe",
+    "weight": 21.54
+  },
+  {
+    "donor": "Germany",
+    "recip": "Saudi Arabia",
+    "weight": 12.659999999999998
+  },
+  {
+    "donor": "Germany",
+    "recip": "Senegal",
+    "weight": 75.35
+  },
+  {
+    "donor": "Germany",
+    "recip": "Seychelles",
+    "weight": 6.0
+  },
+  {
+    "donor": "Germany",
+    "recip": "Sierra Leone",
+    "weight": 74.09
+  },
+  {
+    "donor": "Germany",
+    "recip": "Singapore",
+    "weight": 29.73
+  },
+  {
+    "donor": "Germany",
+    "recip": "Solomon Islands",
+    "weight": 0.48
+  },
+  {
+    "donor": "Germany",
+    "recip": "Somalia",
+    "weight": 127.85000000000001
+  },
+  {
+    "donor": "Germany",
+    "recip": "Sri Lanka",
+    "weight": 117.09
+  },
+  {
+    "donor": "Germany",
+    "recip": "Sudan",
+    "weight": 175.10999999999999
+  },
+  {
+    "donor": "Germany",
+    "recip": "Suriname",
+    "weight": 0.27
+  },
+  {
+    "donor": "Germany",
+    "recip": "Syrian Arab Republic",
+    "weight": 50.85
+  },
+  {
+    "donor": "Germany",
+    "recip": "Tanzania",
+    "weight": 408.38
+  },
+  {
+    "donor": "Germany",
+    "recip": "Thailand",
+    "weight": 321.12
+  },
+  {
+    "donor": "Germany",
+    "recip": "Togo",
+    "weight": 102.19999999999999
+  },
+  {
+    "donor": "Germany",
+    "recip": "Tonga",
+    "weight": 0.81
+  },
+  {
+    "donor": "Germany",
+    "recip": "Trinidad and Tobago",
+    "weight": 1.62
+  },
+  {
+    "donor": "Germany",
+    "recip": "Tunisia",
+    "weight": 307.57
+  },
+  {
+    "donor": "Germany",
+    "recip": "Turkey",
+    "weight": 1008.77
+  },
+  {
+    "donor": "Germany",
+    "recip": "Tuvalu",
+    "weight": 0.75
+  },
+  {
+    "donor": "Germany",
+    "recip": "Uganda",
+    "weight": 257.4
+  },
+  {
+    "donor": "Germany",
+    "recip": "United Arab Emirates",
+    "weight": 1.44
+  },
+  {
+    "donor": "Germany",
+    "recip": "Uruguay",
+    "weight": 50.230000000000004
+  },
+  {
+    "donor": "Germany",
+    "recip": "Vanuatu",
+    "weight": 0.6900000000000001
+  },
+  {
+    "donor": "Germany",
+    "recip": "Venezuela",
+    "weight": 33.39
+  },
+  {
+    "donor": "Germany",
+    "recip": "Viet Nam",
+    "weight": 249.61
+  },
+  {
+    "donor": "Germany",
+    "recip": "Yemen",
+    "weight": 356.48
+  },
+  {
+    "donor": "Germany",
+    "recip": "Zambia",
+    "weight": 517.45
+  },
+  {
+    "donor": "Germany",
+    "recip": "Zimbabwe",
+    "weight": 386.02
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Bhutan",
+    "weight": 19.119999999999997
+  },
+  {
+    "donor": "IFAD",
+    "recip": "China (People's Republic of)",
+    "weight": 131.74
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Ecuador",
+    "weight": 53.68
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Egypt",
+    "weight": 120.56
+  },
+  {
+    "donor": "IFAD",
+    "recip": "El Salvador",
+    "weight": 60.94
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Gambia",
+    "weight": 16.84
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Guinea",
+    "weight": 64.92
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Indonesia",
+    "weight": 95.22
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Iran",
+    "weight": 94.52
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Lebanon",
+    "weight": 48.11999999999999
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Mauritania",
+    "weight": 57.02
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Mexico",
+    "weight": 120.24000000000001
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Nigeria",
+    "weight": 42.84
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Pakistan",
+    "weight": 68.18
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Paraguay",
+    "weight": 56.02
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Philippines",
+    "weight": 72.5
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Rwanda",
+    "weight": 44.480000000000004
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Samoa",
+    "weight": 8.56
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Senegal",
+    "weight": 38.2
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Sierra Leone",
+    "weight": 67.53999999999999
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Sri Lanka",
+    "weight": 40.54
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Sudan",
+    "weight": 57.339999999999996
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Syrian Arab Republic",
+    "weight": 83.02000000000001
+  },
+  {
+    "donor": "IFAD",
+    "recip": "Uganda",
+    "weight": 47.1
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Albania",
+    "weight": 192.22
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Angola",
+    "weight": 786.54
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Bangladesh",
+    "weight": 1650.92
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Benin",
+    "weight": 185.62
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Bolivia",
+    "weight": 550.46
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Burkina Faso",
+    "weight": 544.8399999999999
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Burundi",
+    "weight": 234.29999999999998
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Cabo Verde",
+    "weight": 19.64
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Central African Republic",
+    "weight": 120.66
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "China (People's Republic of)",
+    "weight": 2862.2200000000003
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Cote d'Ivoire",
+    "weight": 70.16
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Egypt",
+    "weight": 518.38
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Equatorial Guinea",
+    "weight": 37.08
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Ethiopia",
+    "weight": 701.52
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Ghana",
+    "weight": 1751.24
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Guinea",
+    "weight": 365.26
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Guinea-Bissau",
+    "weight": 47.24
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Guyana",
+    "weight": 62.66
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Honduras",
+    "weight": 251.14000000000001
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "India",
+    "weight": 5934.880000000001
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Kenya",
+    "weight": 824.14
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 168.36
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Lesotho",
+    "weight": 45.839999999999996
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Madagascar",
+    "weight": 112.72
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Malawi",
+    "weight": 955.0
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Maldives",
+    "weight": 46.760000000000005
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Mali",
+    "weight": 217.0
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Mauritania",
+    "weight": 134.22
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Mozambique",
+    "weight": 1353.0
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Nepal",
+    "weight": 835.28
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Nicaragua",
+    "weight": 48.17999999999999
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Niger",
+    "weight": 166.5
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Nigeria",
+    "weight": 1000.8400000000001
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Pakistan",
+    "weight": 927.8800000000001
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Philippines",
+    "weight": 168.36
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Rwanda",
+    "weight": 89.32
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Sao Tome and Principe",
+    "weight": 127.2
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Senegal",
+    "weight": 204.38
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Sierra Leone",
+    "weight": 301.18
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Sri Lanka",
+    "weight": 180.72
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Tanzania",
+    "weight": 278.74
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Togo",
+    "weight": 12.86
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Uganda",
+    "weight": 1367.5
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Yemen",
+    "weight": 245.54
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Zambia",
+    "weight": 1183.24
+  },
+  {
+    "donor": "International Development Association [IDA]",
+    "recip": "Zimbabwe",
+    "weight": 935.36
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Argentina",
+    "weight": 0.09000000000000001
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Bangladesh",
+    "weight": 0.8699999999999999
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Bhutan",
+    "weight": 0.39
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Bolivia",
+    "weight": 0.33
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Botswana",
+    "weight": 0.09000000000000001
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Brazil",
+    "weight": 0.54
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Burkina Faso",
+    "weight": 0.09
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Burundi",
+    "weight": 0.8699999999999999
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Cambodia",
+    "weight": 4.47
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Cameroon",
+    "weight": 0.15000000000000002
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Chile",
+    "weight": 0.15
+  },
+  {
+    "donor": "Ireland",
+    "recip": "China (People's Republic of)",
+    "weight": 0.33
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Democratic Republic of the Congo",
+    "weight": 0.15000000000000002
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Egypt",
+    "weight": 0.72
+  },
+  {
+    "donor": "Ireland",
+    "recip": "El Salvador",
+    "weight": 0.63
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Eswatini",
+    "weight": 0.63
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Ethiopia",
+    "weight": 5.58
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Gambia",
+    "weight": 1.2
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Ghana",
+    "weight": 1.11
+  },
+  {
+    "donor": "Ireland",
+    "recip": "India",
+    "weight": 0.96
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Indonesia",
+    "weight": 0.15
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Iran",
+    "weight": 0.15000000000000002
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Iraq",
+    "weight": 0.22000000000000003
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Jamaica",
+    "weight": 0.15000000000000002
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Jordan",
+    "weight": 0.15
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Kenya",
+    "weight": 4.83
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Lebanon",
+    "weight": 0.15
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Lesotho",
+    "weight": 33.36
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Liberia",
+    "weight": 0.33
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Malawi",
+    "weight": 0.88
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Malaysia",
+    "weight": 0.09000000000000001
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Mozambique",
+    "weight": 1.26
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Namibia",
+    "weight": 0.87
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Nepal",
+    "weight": 0.33
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Nicaragua",
+    "weight": 0.24000000000000002
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Nigeria",
+    "weight": 1.35
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Pakistan",
+    "weight": 0.63
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Papua New Guinea",
+    "weight": 0.09
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Paraguay",
+    "weight": 0.24
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Peru",
+    "weight": 0.24000000000000002
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Philippines",
+    "weight": 0.54
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Rwanda",
+    "weight": 0.54
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Senegal",
+    "weight": 0.09
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Sierra Leone",
+    "weight": 0.39
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Somalia",
+    "weight": 8.42
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Sri Lanka",
+    "weight": 0.15
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Sudan",
+    "weight": 6.619999999999999
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Tanzania",
+    "weight": 38.08
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Thailand",
+    "weight": 0.33
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Turkey",
+    "weight": 0.22000000000000003
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Uganda",
+    "weight": 2.52
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Viet Nam",
+    "weight": 0.54
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Zambia",
+    "weight": 27.39
+  },
+  {
+    "donor": "Ireland",
+    "recip": "Zimbabwe",
+    "weight": 4.510000000000001
+  },
+  {
+    "donor": "Islamic Development Bank [IsDB]",
+    "recip": "Azerbaijan",
+    "weight": 3.66
+  },
+  {
+    "donor": "Islamic Development Bank [IsDB]",
+    "recip": "Benin",
+    "weight": 28.12
+  },
+  {
+    "donor": "Islamic Development Bank [IsDB]",
+    "recip": "Burkina Faso",
+    "weight": 7.590000000000001
+  },
+  {
+    "donor": "Islamic Development Bank [IsDB]",
+    "recip": "Cameroon",
+    "weight": 42.44
+  },
+  {
+    "donor": "Islamic Development Bank [IsDB]",
+    "recip": "Chad",
+    "weight": 1.83
+  },
+  {
+    "donor": "Islamic Development Bank [IsDB]",
+    "recip": "Comoros",
+    "weight": 1.83
+  },
+  {
+    "donor": "Islamic Development Bank [IsDB]",
+    "recip": "Gabon",
+    "weight": 7.17
+  },
+  {
+    "donor": "Islamic Development Bank [IsDB]",
+    "recip": "Guinea",
+    "weight": 35.400000000000006
+  },
+  {
+    "donor": "Islamic Development Bank [IsDB]",
+    "recip": "Lebanon",
+    "weight": 65.24000000000001
+  },
+  {
+    "donor": "Islamic Development Bank [IsDB]",
+    "recip": "Mali",
+    "weight": 23.97
+  },
+  {
+    "donor": "Islamic Development Bank [IsDB]",
+    "recip": "Niger",
+    "weight": 0.48
+  },
+  {
+    "donor": "Islamic Development Bank [IsDB]",
+    "recip": "Pakistan",
+    "weight": 46.760000000000005
+  },
+  {
+    "donor": "Islamic Development Bank [IsDB]",
+    "recip": "Saudi Arabia",
+    "weight": 2.4
+  },
+  {
+    "donor": "Islamic Development Bank [IsDB]",
+    "recip": "Senegal",
+    "weight": 65.76
+  },
+  {
+    "donor": "Islamic Development Bank [IsDB]",
+    "recip": "Sudan",
+    "weight": 44.42
+  },
+  {
+    "donor": "Islamic Development Bank [IsDB]",
+    "recip": "Tunisia",
+    "weight": 35.46
+  },
+  {
+    "donor": "Italy",
+    "recip": "Albania",
+    "weight": 212.17
+  },
+  {
+    "donor": "Italy",
+    "recip": "Algeria",
+    "weight": 166.46
+  },
+  {
+    "donor": "Italy",
+    "recip": "Angola",
+    "weight": 246.04
+  },
+  {
+    "donor": "Italy",
+    "recip": "Argentina",
+    "weight": 1256.9499999999998
+  },
+  {
+    "donor": "Italy",
+    "recip": "Bangladesh",
+    "weight": 67.18999999999998
+  },
+  {
+    "donor": "Italy",
+    "recip": "Benin",
+    "weight": 5.1000000000000005
+  },
+  {
+    "donor": "Italy",
+    "recip": "Bolivia",
+    "weight": 122.88000000000001
+  },
+  {
+    "donor": "Italy",
+    "recip": "Brazil",
+    "weight": 69.19
+  },
+  {
+    "donor": "Italy",
+    "recip": "Burkina Faso",
+    "weight": 14.17
+  },
+  {
+    "donor": "Italy",
+    "recip": "Burundi",
+    "weight": 19.89
+  },
+  {
+    "donor": "Italy",
+    "recip": "Cabo Verde",
+    "weight": 6.96
+  },
+  {
+    "donor": "Italy",
+    "recip": "Cambodia",
+    "weight": 2.9699999999999998
+  },
+  {
+    "donor": "Italy",
+    "recip": "Cameroon",
+    "weight": 36.95
+  },
+  {
+    "donor": "Italy",
+    "recip": "Central African Republic",
+    "weight": 4.96
+  },
+  {
+    "donor": "Italy",
+    "recip": "Chad",
+    "weight": 7.130000000000001
+  },
+  {
+    "donor": "Italy",
+    "recip": "Chile",
+    "weight": 164.62
+  },
+  {
+    "donor": "Italy",
+    "recip": "China (People's Republic of)",
+    "weight": 837.78
+  },
+  {
+    "donor": "Italy",
+    "recip": "Colombia",
+    "weight": 120.02
+  },
+  {
+    "donor": "Italy",
+    "recip": "Congo",
+    "weight": 37.12
+  },
+  {
+    "donor": "Italy",
+    "recip": "Costa Rica",
+    "weight": 0.54
+  },
+  {
+    "donor": "Italy",
+    "recip": "Cote d'Ivoire",
+    "weight": 3.98
+  },
+  {
+    "donor": "Italy",
+    "recip": "Cuba",
+    "weight": 4.77
+  },
+  {
+    "donor": "Italy",
+    "recip": "Democratic Republic of the Congo",
+    "weight": 5.749999999999999
+  },
+  {
+    "donor": "Italy",
+    "recip": "Djibouti",
+    "weight": 206.37
+  },
+  {
+    "donor": "Italy",
+    "recip": "Dominican Republic",
+    "weight": 80.08
+  },
+  {
+    "donor": "Italy",
+    "recip": "Ecuador",
+    "weight": 47.91
+  },
+  {
+    "donor": "Italy",
+    "recip": "Egypt",
+    "weight": 120.02000000000001
+  },
+  {
+    "donor": "Italy",
+    "recip": "El Salvador",
+    "weight": 45.23
+  },
+  {
+    "donor": "Italy",
+    "recip": "Equatorial Guinea",
+    "weight": 12.68
+  },
+  {
+    "donor": "Italy",
+    "recip": "Eswatini",
+    "weight": 1.56
+  },
+  {
+    "donor": "Italy",
+    "recip": "Ethiopia",
+    "weight": 185.0
+  },
+  {
+    "donor": "Italy",
+    "recip": "Gabon",
+    "weight": 0.04
+  },
+  {
+    "donor": "Italy",
+    "recip": "Gambia",
+    "weight": 10.740000000000002
+  },
+  {
+    "donor": "Italy",
+    "recip": "Ghana",
+    "weight": 42.31
+  },
+  {
+    "donor": "Italy",
+    "recip": "Guatemala",
+    "weight": 56.34
+  },
+  {
+    "donor": "Italy",
+    "recip": "Guinea",
+    "weight": 28.310000000000002
+  },
+  {
+    "donor": "Italy",
+    "recip": "Guinea-Bissau",
+    "weight": 11.309999999999999
+  },
+  {
+    "donor": "Italy",
+    "recip": "Honduras",
+    "weight": 213.79999999999995
+  },
+  {
+    "donor": "Italy",
+    "recip": "India",
+    "weight": 52.489999999999995
+  },
+  {
+    "donor": "Italy",
+    "recip": "Indonesia",
+    "weight": 593.2199999999999
+  },
+  {
+    "donor": "Italy",
+    "recip": "Iran",
+    "weight": 1.2899999999999998
+  },
+  {
+    "donor": "Italy",
+    "recip": "Jamaica",
+    "weight": 24.439999999999998
+  },
+  {
+    "donor": "Italy",
+    "recip": "Jordan",
+    "weight": 21.990000000000002
+  },
+  {
+    "donor": "Italy",
+    "recip": "Kenya",
+    "weight": 415.2
+  },
+  {
+    "donor": "Italy",
+    "recip": "Korea",
+    "weight": 0.15000000000000002
+  },
+  {
+    "donor": "Italy",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Italy",
+    "recip": "Lebanon",
+    "weight": 49.510000000000005
+  },
+  {
+    "donor": "Italy",
+    "recip": "Lesotho",
+    "weight": 24.78
+  },
+  {
+    "donor": "Italy",
+    "recip": "Libya",
+    "weight": 0.73
+  },
+  {
+    "donor": "Italy",
+    "recip": "Madagascar",
+    "weight": 14.51
+  },
+  {
+    "donor": "Italy",
+    "recip": "Malawi",
+    "weight": 6.119999999999999
+  },
+  {
+    "donor": "Italy",
+    "recip": "Malaysia",
+    "weight": 2.04
+  },
+  {
+    "donor": "Italy",
+    "recip": "Mali",
+    "weight": 35.449999999999996
+  },
+  {
+    "donor": "Italy",
+    "recip": "Malta",
+    "weight": 29.759999999999998
+  },
+  {
+    "donor": "Italy",
+    "recip": "Mauritania",
+    "weight": 23.43
+  },
+  {
+    "donor": "Italy",
+    "recip": "Mauritius",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Italy",
+    "recip": "Mexico",
+    "weight": 12.84
+  },
+  {
+    "donor": "Italy",
+    "recip": "Morocco",
+    "weight": 576.4
+  },
+  {
+    "donor": "Italy",
+    "recip": "Mozambique",
+    "weight": 1546.53
+  },
+  {
+    "donor": "Italy",
+    "recip": "Myanmar",
+    "weight": 0.8
+  },
+  {
+    "donor": "Italy",
+    "recip": "Namibia",
+    "weight": 5.699999999999999
+  },
+  {
+    "donor": "Italy",
+    "recip": "Nepal",
+    "weight": 2.4499999999999997
+  },
+  {
+    "donor": "Italy",
+    "recip": "Nicaragua",
+    "weight": 65.14999999999999
+  },
+  {
+    "donor": "Italy",
+    "recip": "Niger",
+    "weight": 65.23
+  },
+  {
+    "donor": "Italy",
+    "recip": "Nigeria",
+    "weight": 8.459999999999999
+  },
+  {
+    "donor": "Italy",
+    "recip": "Pakistan",
+    "weight": 230.59999999999997
+  },
+  {
+    "donor": "Italy",
+    "recip": "Paraguay",
+    "weight": 0.56
+  },
+  {
+    "donor": "Italy",
+    "recip": "Peru",
+    "weight": 183.67999999999998
+  },
+  {
+    "donor": "Italy",
+    "recip": "Philippines",
+    "weight": 47.16
+  },
+  {
+    "donor": "Italy",
+    "recip": "Rwanda",
+    "weight": 22.42
+  },
+  {
+    "donor": "Italy",
+    "recip": "Sao Tome and Principe",
+    "weight": 2.73
+  },
+  {
+    "donor": "Italy",
+    "recip": "Senegal",
+    "weight": 146.59
+  },
+  {
+    "donor": "Italy",
+    "recip": "Sierra Leone",
+    "weight": 5.459999999999999
+  },
+  {
+    "donor": "Italy",
+    "recip": "Somalia",
+    "weight": 72.56
+  },
+  {
+    "donor": "Italy",
+    "recip": "Sri Lanka",
+    "weight": 79.11999999999999
+  },
+  {
+    "donor": "Italy",
+    "recip": "Sudan",
+    "weight": 22.43
+  },
+  {
+    "donor": "Italy",
+    "recip": "Syrian Arab Republic",
+    "weight": 0.96
+  },
+  {
+    "donor": "Italy",
+    "recip": "Tanzania",
+    "weight": 439.29
+  },
+  {
+    "donor": "Italy",
+    "recip": "Thailand",
+    "weight": 28.13
+  },
+  {
+    "donor": "Italy",
+    "recip": "Togo",
+    "weight": 8.979999999999999
+  },
+  {
+    "donor": "Italy",
+    "recip": "Tunisia",
+    "weight": 800.0699999999999
+  },
+  {
+    "donor": "Italy",
+    "recip": "Turkey",
+    "weight": 14.95
+  },
+  {
+    "donor": "Italy",
+    "recip": "Uganda",
+    "weight": 65.32000000000001
+  },
+  {
+    "donor": "Italy",
+    "recip": "Uruguay",
+    "weight": 18.299999999999997
+  },
+  {
+    "donor": "Italy",
+    "recip": "Venezuela",
+    "weight": 4.9399999999999995
+  },
+  {
+    "donor": "Italy",
+    "recip": "Viet Nam",
+    "weight": 56.29
+  },
+  {
+    "donor": "Italy",
+    "recip": "Yemen",
+    "weight": 25.35
+  },
+  {
+    "donor": "Italy",
+    "recip": "Zambia",
+    "weight": 57.67
+  },
+  {
+    "donor": "Italy",
+    "recip": "Zimbabwe",
+    "weight": 10.600000000000001
+  },
+  {
+    "donor": "Japan",
+    "recip": "Afghanistan",
+    "weight": 0.12000000000000001
+  },
+  {
+    "donor": "Japan",
+    "recip": "Albania",
+    "weight": 2.5500000000000003
+  },
+  {
+    "donor": "Japan",
+    "recip": "Algeria",
+    "weight": 46.14
+  },
+  {
+    "donor": "Japan",
+    "recip": "Angola",
+    "weight": 12.34
+  },
+  {
+    "donor": "Japan",
+    "recip": "Antigua and Barbuda",
+    "weight": 0.36
+  },
+  {
+    "donor": "Japan",
+    "recip": "Argentina",
+    "weight": 180.20000000000002
+  },
+  {
+    "donor": "Japan",
+    "recip": "Bahamas",
+    "weight": 0.5000000000000001
+  },
+  {
+    "donor": "Japan",
+    "recip": "Bahrain",
+    "weight": 3.75
+  },
+  {
+    "donor": "Japan",
+    "recip": "Bangladesh",
+    "weight": 1784.3600000000001
+  },
+  {
+    "donor": "Japan",
+    "recip": "Barbados",
+    "weight": 1.2
+  },
+  {
+    "donor": "Japan",
+    "recip": "Belize",
+    "weight": 0.12000000000000001
+  },
+  {
+    "donor": "Japan",
+    "recip": "Benin",
+    "weight": 73.61000000000001
+  },
+  {
+    "donor": "Japan",
+    "recip": "Bhutan",
+    "weight": 71.93
+  },
+  {
+    "donor": "Japan",
+    "recip": "Bolivia",
+    "weight": 472.08000000000004
+  },
+  {
+    "donor": "Japan",
+    "recip": "Botswana",
+    "weight": 1.4
+  },
+  {
+    "donor": "Japan",
+    "recip": "Brazil",
+    "weight": 307.64
+  },
+  {
+    "donor": "Japan",
+    "recip": "Brunei Darussalam",
+    "weight": 28.11
+  },
+  {
+    "donor": "Japan",
+    "recip": "Burkina Faso",
+    "weight": 49.2
+  },
+  {
+    "donor": "Japan",
+    "recip": "Burundi",
+    "weight": 45.68
+  },
+  {
+    "donor": "Japan",
+    "recip": "Cabo Verde",
+    "weight": 33.080000000000005
+  },
+  {
+    "donor": "Japan",
+    "recip": "Cambodia",
+    "weight": 131.78
+  },
+  {
+    "donor": "Japan",
+    "recip": "Cameroon",
+    "weight": 42.81
+  },
+  {
+    "donor": "Japan",
+    "recip": "Central African Republic",
+    "weight": 108.15
+  },
+  {
+    "donor": "Japan",
+    "recip": "Chad",
+    "weight": 0.36
+  },
+  {
+    "donor": "Japan",
+    "recip": "Chile",
+    "weight": 871.24
+  },
+  {
+    "donor": "Japan",
+    "recip": "China (People's Republic of)",
+    "weight": 5862.53
+  },
+  {
+    "donor": "Japan",
+    "recip": "Colombia",
+    "weight": 67.78
+  },
+  {
+    "donor": "Japan",
+    "recip": "Comoros",
+    "weight": 10.5
+  },
+  {
+    "donor": "Japan",
+    "recip": "Congo",
+    "weight": 13.44
+  },
+  {
+    "donor": "Japan",
+    "recip": "Cook Islands",
+    "weight": 3.2700000000000005
+  },
+  {
+    "donor": "Japan",
+    "recip": "Costa Rica",
+    "weight": 40.28
+  },
+  {
+    "donor": "Japan",
+    "recip": "Cote d'Ivoire",
+    "weight": 128.47
+  },
+  {
+    "donor": "Japan",
+    "recip": "Cuba",
+    "weight": 2.0100000000000002
+  },
+  {
+    "donor": "Japan",
+    "recip": "Cyprus",
+    "weight": 0.9
+  },
+  {
+    "donor": "Japan",
+    "recip": "Democratic Republic of the Congo",
+    "weight": 4.5600000000000005
+  },
+  {
+    "donor": "Japan",
+    "recip": "Djibouti",
+    "weight": 22.61
+  },
+  {
+    "donor": "Japan",
+    "recip": "Dominica",
+    "weight": 1.77
+  },
+  {
+    "donor": "Japan",
+    "recip": "Dominican Republic",
+    "weight": 102.23
+  },
+  {
+    "donor": "Japan",
+    "recip": "Ecuador",
+    "weight": 48.49
+  },
+  {
+    "donor": "Japan",
+    "recip": "Egypt",
+    "weight": 893.42
+  },
+  {
+    "donor": "Japan",
+    "recip": "El Salvador",
+    "weight": 60.14
+  },
+  {
+    "donor": "Japan",
+    "recip": "Equatorial Guinea",
+    "weight": 3.2
+  },
+  {
+    "donor": "Japan",
+    "recip": "Eswatini",
+    "weight": 16.19
+  },
+  {
+    "donor": "Japan",
+    "recip": "Ethiopia",
+    "weight": 71.22
+  },
+  {
+    "donor": "Japan",
+    "recip": "Fiji",
+    "weight": 86.61000000000001
+  },
+  {
+    "donor": "Japan",
+    "recip": "French Polynesia",
+    "weight": 1.0799999999999998
+  },
+  {
+    "donor": "Japan",
+    "recip": "Gabon",
+    "weight": 2.77
+  },
+  {
+    "donor": "Japan",
+    "recip": "Gambia",
+    "weight": 58.65
+  },
+  {
+    "donor": "Japan",
+    "recip": "Ghana",
+    "weight": 315.0
+  },
+  {
+    "donor": "Japan",
+    "recip": "Grenada",
+    "weight": 2.7300000000000004
+  },
+  {
+    "donor": "Japan",
+    "recip": "Guatemala",
+    "weight": 234.2
+  },
+  {
+    "donor": "Japan",
+    "recip": "Guinea",
+    "weight": 100.49
+  },
+  {
+    "donor": "Japan",
+    "recip": "Guinea-Bissau",
+    "weight": 8.379999999999999
+  },
+  {
+    "donor": "Japan",
+    "recip": "Guyana",
+    "weight": 1.9300000000000002
+  },
+  {
+    "donor": "Japan",
+    "recip": "Haiti",
+    "weight": 1.14
+  },
+  {
+    "donor": "Japan",
+    "recip": "Honduras",
+    "weight": 223.93
+  },
+  {
+    "donor": "Japan",
+    "recip": "Hong Kong (China)",
+    "weight": 41.28
+  },
+  {
+    "donor": "Japan",
+    "recip": "India",
+    "weight": 5928.9400000000005
+  },
+  {
+    "donor": "Japan",
+    "recip": "Indonesia",
+    "weight": 6408.21
+  },
+  {
+    "donor": "Japan",
+    "recip": "Iran",
+    "weight": 58.29
+  },
+  {
+    "donor": "Japan",
+    "recip": "Iraq",
+    "weight": 0.9
+  },
+  {
+    "donor": "Japan",
+    "recip": "Israel",
+    "weight": 4.5
+  },
+  {
+    "donor": "Japan",
+    "recip": "Jamaica",
+    "weight": 9.24
+  },
+  {
+    "donor": "Japan",
+    "recip": "Jordan",
+    "weight": 30.0
+  },
+  {
+    "donor": "Japan",
+    "recip": "Kenya",
+    "weight": 292.12
+  },
+  {
+    "donor": "Japan",
+    "recip": "Kiribati",
+    "weight": 29.709999999999997
+  },
+  {
+    "donor": "Japan",
+    "recip": "Korea",
+    "weight": 463.47
+  },
+  {
+    "donor": "Japan",
+    "recip": "Kuwait",
+    "weight": 1.29
+  },
+  {
+    "donor": "Japan",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 143.12
+  },
+  {
+    "donor": "Japan",
+    "recip": "Lebanon",
+    "weight": 1.7000000000000002
+  },
+  {
+    "donor": "Japan",
+    "recip": "Lesotho",
+    "weight": 3.68
+  },
+  {
+    "donor": "Japan",
+    "recip": "Liberia",
+    "weight": 1.29
+  },
+  {
+    "donor": "Japan",
+    "recip": "Libya",
+    "weight": 0.18
+  },
+  {
+    "donor": "Japan",
+    "recip": "Macau (China)",
+    "weight": 0.5399999999999999
+  },
+  {
+    "donor": "Japan",
+    "recip": "Madagascar",
+    "weight": 74.7
+  },
+  {
+    "donor": "Japan",
+    "recip": "Malawi",
+    "weight": 119.50999999999999
+  },
+  {
+    "donor": "Japan",
+    "recip": "Malaysia",
+    "weight": 2432.8599999999997
+  },
+  {
+    "donor": "Japan",
+    "recip": "Maldives",
+    "weight": 44.34
+  },
+  {
+    "donor": "Japan",
+    "recip": "Mali",
+    "weight": 35.3
+  },
+  {
+    "donor": "Japan",
+    "recip": "Malta",
+    "weight": 1.9500000000000002
+  },
+  {
+    "donor": "Japan",
+    "recip": "Marshall Islands",
+    "weight": 34.45
+  },
+  {
+    "donor": "Japan",
+    "recip": "Mauritania",
+    "weight": 92.21
+  },
+  {
+    "donor": "Japan",
+    "recip": "Mauritius",
+    "weight": 10.68
+  },
+  {
+    "donor": "Japan",
+    "recip": "Mexico",
+    "weight": 1265.9099999999999
+  },
+  {
+    "donor": "Japan",
+    "recip": "Micronesia",
+    "weight": 61.22
+  },
+  {
+    "donor": "Japan",
+    "recip": "Mongolia",
+    "weight": 161.89000000000001
+  },
+  {
+    "donor": "Japan",
+    "recip": "Morocco",
+    "weight": 138.29999999999998
+  },
+  {
+    "donor": "Japan",
+    "recip": "Mozambique",
+    "weight": 157.73999999999998
+  },
+  {
+    "donor": "Japan",
+    "recip": "Myanmar",
+    "weight": 159.54999999999998
+  },
+  {
+    "donor": "Japan",
+    "recip": "Namibia",
+    "weight": 26.52
+  },
+  {
+    "donor": "Japan",
+    "recip": "Nauru",
+    "weight": 0.3
+  },
+  {
+    "donor": "Japan",
+    "recip": "Nepal",
+    "weight": 382.60999999999996
+  },
+  {
+    "donor": "Japan",
+    "recip": "Netherlands Antilles",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Japan",
+    "recip": "New Caledonia",
+    "weight": 0.6
+  },
+  {
+    "donor": "Japan",
+    "recip": "Nicaragua",
+    "weight": 128.95999999999998
+  },
+  {
+    "donor": "Japan",
+    "recip": "Niger",
+    "weight": 130.01999999999998
+  },
+  {
+    "donor": "Japan",
+    "recip": "Nigeria",
+    "weight": 610.56
+  },
+  {
+    "donor": "Japan",
+    "recip": "Niue",
+    "weight": 0.18
+  },
+  {
+    "donor": "Japan",
+    "recip": "Northern Mariana Islands",
+    "weight": 14.74
+  },
+  {
+    "donor": "Japan",
+    "recip": "Oman",
+    "weight": 25.380000000000003
+  },
+  {
+    "donor": "Japan",
+    "recip": "Pakistan",
+    "weight": 1526.6
+  },
+  {
+    "donor": "Japan",
+    "recip": "Panama",
+    "weight": 476.46000000000004
+  },
+  {
+    "donor": "Japan",
+    "recip": "Papua New Guinea",
+    "weight": 333.17
+  },
+  {
+    "donor": "Japan",
+    "recip": "Paraguay",
+    "weight": 262.85
+  },
+  {
+    "donor": "Japan",
+    "recip": "Peru",
+    "weight": 654.26
+  },
+  {
+    "donor": "Japan",
+    "recip": "Philippines",
+    "weight": 4046.8100000000004
+  },
+  {
+    "donor": "Japan",
+    "recip": "Qatar",
+    "weight": 4.0200000000000005
+  },
+  {
+    "donor": "Japan",
+    "recip": "Rwanda",
+    "weight": 93.74
+  },
+  {
+    "donor": "Japan",
+    "recip": "Saint Helena",
+    "weight": 0.36
+  },
+  {
+    "donor": "Japan",
+    "recip": "Saint Kitts and Nevis",
+    "weight": 0.12000000000000001
+  },
+  {
+    "donor": "Japan",
+    "recip": "Saint Lucia",
+    "weight": 3.2700000000000005
+  },
+  {
+    "donor": "Japan",
+    "recip": "Saint Vincent and the Grenadines",
+    "weight": 1.4200000000000002
+  },
+  {
+    "donor": "Japan",
+    "recip": "Samoa",
+    "weight": 69.71000000000001
+  },
+  {
+    "donor": "Japan",
+    "recip": "Sao Tome and Principe",
+    "weight": 22.8
+  },
+  {
+    "donor": "Japan",
+    "recip": "Saudi Arabia",
+    "weight": 31.02
+  },
+  {
+    "donor": "Japan",
+    "recip": "Senegal",
+    "weight": 199.03
+  },
+  {
+    "donor": "Japan",
+    "recip": "Seychelles",
+    "weight": 2.4299999999999997
+  },
+  {
+    "donor": "Japan",
+    "recip": "Sierra Leone",
+    "weight": 16.31
+  },
+  {
+    "donor": "Japan",
+    "recip": "Singapore",
+    "weight": 104.72999999999999
+  },
+  {
+    "donor": "Japan",
+    "recip": "Solomon Islands",
+    "weight": 43.59
+  },
+  {
+    "donor": "Japan",
+    "recip": "Somalia",
+    "weight": 0.9600000000000001
+  },
+  {
+    "donor": "Japan",
+    "recip": "Sri Lanka",
+    "weight": 1453.87
+  },
+  {
+    "donor": "Japan",
+    "recip": "Sudan",
+    "weight": 77.17999999999999
+  },
+  {
+    "donor": "Japan",
+    "recip": "Suriname",
+    "weight": 0.18
+  },
+  {
+    "donor": "Japan",
+    "recip": "Syrian Arab Republic",
+    "weight": 37.95
+  },
+  {
+    "donor": "Japan",
+    "recip": "Tanzania",
+    "weight": 351.79999999999995
+  },
+  {
+    "donor": "Japan",
+    "recip": "Thailand",
+    "weight": 1948.42
+  },
+  {
+    "donor": "Japan",
+    "recip": "Togo",
+    "weight": 1.0799999999999998
+  },
+  {
+    "donor": "Japan",
+    "recip": "Tonga",
+    "weight": 33.709999999999994
+  },
+  {
+    "donor": "Japan",
+    "recip": "Trinidad and Tobago",
+    "weight": 1.0799999999999998
+  },
+  {
+    "donor": "Japan",
+    "recip": "Tunisia",
+    "weight": 48.269999999999996
+  },
+  {
+    "donor": "Japan",
+    "recip": "Turkey",
+    "weight": 118.4
+  },
+  {
+    "donor": "Japan",
+    "recip": "Tuvalu",
+    "weight": 3.33
+  },
+  {
+    "donor": "Japan",
+    "recip": "Uganda",
+    "weight": 46.88
+  },
+  {
+    "donor": "Japan",
+    "recip": "United Arab Emirates",
+    "weight": 11.79
+  },
+  {
+    "donor": "Japan",
+    "recip": "Uruguay",
+    "weight": 43.71
+  },
+  {
+    "donor": "Japan",
+    "recip": "Vanuatu",
+    "weight": 7.050000000000001
+  },
+  {
+    "donor": "Japan",
+    "recip": "Venezuela",
+    "weight": 47.190000000000005
+  },
+  {
+    "donor": "Japan",
+    "recip": "Viet Nam",
+    "weight": 1514.43
+  },
+  {
+    "donor": "Japan",
+    "recip": "Wallis and Futuna",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Japan",
+    "recip": "Yemen",
+    "weight": 145.03
+  },
+  {
+    "donor": "Japan",
+    "recip": "Zambia",
+    "weight": 705.5300000000001
+  },
+  {
+    "donor": "Japan",
+    "recip": "Zimbabwe",
+    "weight": 178.90999999999997
+  },
+  {
+    "donor": "Korea",
+    "recip": "Afghanistan",
+    "weight": 0.94
+  },
+  {
+    "donor": "Korea",
+    "recip": "Albania",
+    "weight": 0.47
+  },
+  {
+    "donor": "Korea",
+    "recip": "Algeria",
+    "weight": 0.21000000000000002
+  },
+  {
+    "donor": "Korea",
+    "recip": "Angola",
+    "weight": 0.8
+  },
+  {
+    "donor": "Korea",
+    "recip": "Antigua and Barbuda",
+    "weight": 0.1
+  },
+  {
+    "donor": "Korea",
+    "recip": "Argentina",
+    "weight": 0.5800000000000001
+  },
+  {
+    "donor": "Korea",
+    "recip": "Bahrain",
+    "weight": 1.52
+  },
+  {
+    "donor": "Korea",
+    "recip": "Bangladesh",
+    "weight": 1.3800000000000001
+  },
+  {
+    "donor": "Korea",
+    "recip": "Barbados",
+    "weight": 0.24
+  },
+  {
+    "donor": "Korea",
+    "recip": "Belize",
+    "weight": 0.24
+  },
+  {
+    "donor": "Korea",
+    "recip": "Benin",
+    "weight": 1.3800000000000001
+  },
+  {
+    "donor": "Korea",
+    "recip": "Bhutan",
+    "weight": 1.1700000000000002
+  },
+  {
+    "donor": "Korea",
+    "recip": "Bolivia",
+    "weight": 0.79
+  },
+  {
+    "donor": "Korea",
+    "recip": "Botswana",
+    "weight": 0.48000000000000004
+  },
+  {
+    "donor": "Korea",
+    "recip": "Burkina Faso",
+    "weight": 0.4
+  },
+  {
+    "donor": "Korea",
+    "recip": "Burundi",
+    "weight": 0.9400000000000001
+  },
+  {
+    "donor": "Korea",
+    "recip": "Cabo Verde",
+    "weight": 0.24000000000000002
+  },
+  {
+    "donor": "Korea",
+    "recip": "Cameroon",
+    "weight": 1.17
+  },
+  {
+    "donor": "Korea",
+    "recip": "Central African Republic",
+    "weight": 1.17
+  },
+  {
+    "donor": "Korea",
+    "recip": "Chad",
+    "weight": 0.24
+  },
+  {
+    "donor": "Korea",
+    "recip": "Chile",
+    "weight": 0.26
+  },
+  {
+    "donor": "Korea",
+    "recip": "China (People's Republic of)",
+    "weight": 1.83
+  },
+  {
+    "donor": "Korea",
+    "recip": "Chinese Taipei",
+    "weight": 0.36
+  },
+  {
+    "donor": "Korea",
+    "recip": "Colombia",
+    "weight": 0.95
+  },
+  {
+    "donor": "Korea",
+    "recip": "Comoros",
+    "weight": 0.18000000000000002
+  },
+  {
+    "donor": "Korea",
+    "recip": "Congo",
+    "weight": 0.48
+  },
+  {
+    "donor": "Korea",
+    "recip": "Cook Islands",
+    "weight": 0.32
+  },
+  {
+    "donor": "Korea",
+    "recip": "Costa Rica",
+    "weight": 0.63
+  },
+  {
+    "donor": "Korea",
+    "recip": "Cote d'Ivoire",
+    "weight": 1.4500000000000002
+  },
+  {
+    "donor": "Korea",
+    "recip": "Democratic Republic of the Congo",
+    "weight": 1.17
+  },
+  {
+    "donor": "Korea",
+    "recip": "Dominica",
+    "weight": 0.1
+  },
+  {
+    "donor": "Korea",
+    "recip": "Dominican Republic",
+    "weight": 0.96
+  },
+  {
+    "donor": "Korea",
+    "recip": "Ecuador",
+    "weight": 0.81
+  },
+  {
+    "donor": "Korea",
+    "recip": "Egypt",
+    "weight": 1.8
+  },
+  {
+    "donor": "Korea",
+    "recip": "El Salvador",
+    "weight": 0.76
+  },
+  {
+    "donor": "Korea",
+    "recip": "Eswatini",
+    "weight": 1.28
+  },
+  {
+    "donor": "Korea",
+    "recip": "Ethiopia",
+    "weight": 2.39
+  },
+  {
+    "donor": "Korea",
+    "recip": "Fiji",
+    "weight": 1.45
+  },
+  {
+    "donor": "Korea",
+    "recip": "Gabon",
+    "weight": 0.24000000000000002
+  },
+  {
+    "donor": "Korea",
+    "recip": "Ghana",
+    "weight": 1.0499999999999998
+  },
+  {
+    "donor": "Korea",
+    "recip": "Grenada",
+    "weight": 0.14
+  },
+  {
+    "donor": "Korea",
+    "recip": "Guatemala",
+    "weight": 1.19
+  },
+  {
+    "donor": "Korea",
+    "recip": "Guinea-Bissau",
+    "weight": 0.24
+  },
+  {
+    "donor": "Korea",
+    "recip": "Guyana",
+    "weight": 0.34
+  },
+  {
+    "donor": "Korea",
+    "recip": "Honduras",
+    "weight": 0.52
+  },
+  {
+    "donor": "Korea",
+    "recip": "Hong Kong (China)",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Korea",
+    "recip": "India",
+    "weight": 0.48
+  },
+  {
+    "donor": "Korea",
+    "recip": "Indonesia",
+    "weight": 10.700000000000001
+  },
+  {
+    "donor": "Korea",
+    "recip": "Iran",
+    "weight": 0.99
+  },
+  {
+    "donor": "Korea",
+    "recip": "Israel",
+    "weight": 0.15
+  },
+  {
+    "donor": "Korea",
+    "recip": "Jamaica",
+    "weight": 0.45999999999999996
+  },
+  {
+    "donor": "Korea",
+    "recip": "Jordan",
+    "weight": 0.27
+  },
+  {
+    "donor": "Korea",
+    "recip": "Kenya",
+    "weight": 66.67
+  },
+  {
+    "donor": "Korea",
+    "recip": "Kiribati",
+    "weight": 0.20000000000000004
+  },
+  {
+    "donor": "Korea",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Korea",
+    "recip": "Lesotho",
+    "weight": 0.8200000000000001
+  },
+  {
+    "donor": "Korea",
+    "recip": "Liberia",
+    "weight": 0.21000000000000002
+  },
+  {
+    "donor": "Korea",
+    "recip": "Malawi",
+    "weight": 0.52
+  },
+  {
+    "donor": "Korea",
+    "recip": "Malaysia",
+    "weight": 1.05
+  },
+  {
+    "donor": "Korea",
+    "recip": "Maldives",
+    "weight": 0.32999999999999996
+  },
+  {
+    "donor": "Korea",
+    "recip": "Mali",
+    "weight": 0.45999999999999996
+  },
+  {
+    "donor": "Korea",
+    "recip": "Marshall Islands",
+    "weight": 0.18
+  },
+  {
+    "donor": "Korea",
+    "recip": "Mauritania",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Korea",
+    "recip": "Mauritius",
+    "weight": 0.4
+  },
+  {
+    "donor": "Korea",
+    "recip": "Mexico",
+    "weight": 0.61
+  },
+  {
+    "donor": "Korea",
+    "recip": "Micronesia",
+    "weight": 0.18
+  },
+  {
+    "donor": "Korea",
+    "recip": "Mongolia",
+    "weight": 27.480000000000004
+  },
+  {
+    "donor": "Korea",
+    "recip": "Morocco",
+    "weight": 1.11
+  },
+  {
+    "donor": "Korea",
+    "recip": "Mozambique",
+    "weight": 0.45999999999999996
+  },
+  {
+    "donor": "Korea",
+    "recip": "Myanmar",
+    "weight": 35.08
+  },
+  {
+    "donor": "Korea",
+    "recip": "Namibia",
+    "weight": 1.0999999999999999
+  },
+  {
+    "donor": "Korea",
+    "recip": "Nepal",
+    "weight": 2.81
+  },
+  {
+    "donor": "Korea",
+    "recip": "Nicaragua",
+    "weight": 0.48
+  },
+  {
+    "donor": "Korea",
+    "recip": "Niger",
+    "weight": 1.51
+  },
+  {
+    "donor": "Korea",
+    "recip": "Nigeria",
+    "weight": 0.36000000000000004
+  },
+  {
+    "donor": "Korea",
+    "recip": "Oman",
+    "weight": 0.42000000000000004
+  },
+  {
+    "donor": "Korea",
+    "recip": "Pakistan",
+    "weight": 3.9699999999999998
+  },
+  {
+    "donor": "Korea",
+    "recip": "Palau",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Korea",
+    "recip": "Panama",
+    "weight": 0.7200000000000001
+  },
+  {
+    "donor": "Korea",
+    "recip": "Papua New Guinea",
+    "weight": 4.6499999999999995
+  },
+  {
+    "donor": "Korea",
+    "recip": "Paraguay",
+    "weight": 1.13
+  },
+  {
+    "donor": "Korea",
+    "recip": "Peru",
+    "weight": 1.07
+  },
+  {
+    "donor": "Korea",
+    "recip": "Philippines",
+    "weight": 9.79
+  },
+  {
+    "donor": "Korea",
+    "recip": "Rwanda",
+    "weight": 0.32
+  },
+  {
+    "donor": "Korea",
+    "recip": "Saint Kitts and Nevis",
+    "weight": 0.14
+  },
+  {
+    "donor": "Korea",
+    "recip": "Saint Lucia",
+    "weight": 0.14
+  },
+  {
+    "donor": "Korea",
+    "recip": "Saint Vincent and the Grenadines",
+    "weight": 0.14
+  },
+  {
+    "donor": "Korea",
+    "recip": "Samoa",
+    "weight": 0.8300000000000001
+  },
+  {
+    "donor": "Korea",
+    "recip": "Saudi Arabia",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Korea",
+    "recip": "Senegal",
+    "weight": 0.7999999999999999
+  },
+  {
+    "donor": "Korea",
+    "recip": "Sierra Leone",
+    "weight": 0.45999999999999996
+  },
+  {
+    "donor": "Korea",
+    "recip": "Singapore",
+    "weight": 0.15
+  },
+  {
+    "donor": "Korea",
+    "recip": "Solomon Islands",
+    "weight": 0.16
+  },
+  {
+    "donor": "Korea",
+    "recip": "Somalia",
+    "weight": 0.38
+  },
+  {
+    "donor": "Korea",
+    "recip": "Sri Lanka",
+    "weight": 3.0599999999999996
+  },
+  {
+    "donor": "Korea",
+    "recip": "Sudan",
+    "weight": 1.3599999999999999
+  },
+  {
+    "donor": "Korea",
+    "recip": "Suriname",
+    "weight": 0.48
+  },
+  {
+    "donor": "Korea",
+    "recip": "Tanzania",
+    "weight": 1.73
+  },
+  {
+    "donor": "Korea",
+    "recip": "Thailand",
+    "weight": 3.6899999999999995
+  },
+  {
+    "donor": "Korea",
+    "recip": "Togo",
+    "weight": 1.24
+  },
+  {
+    "donor": "Korea",
+    "recip": "Tonga",
+    "weight": 0.2
+  },
+  {
+    "donor": "Korea",
+    "recip": "Trinidad and Tobago",
+    "weight": 0.61
+  },
+  {
+    "donor": "Korea",
+    "recip": "Tunisia",
+    "weight": 0.36
+  },
+  {
+    "donor": "Korea",
+    "recip": "Turkey",
+    "weight": 69.25000000000001
+  },
+  {
+    "donor": "Korea",
+    "recip": "Tuvalu",
+    "weight": 0.1
+  },
+  {
+    "donor": "Korea",
+    "recip": "Uganda",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Korea",
+    "recip": "Uruguay",
+    "weight": 0.45999999999999996
+  },
+  {
+    "donor": "Korea",
+    "recip": "Venezuela",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Korea",
+    "recip": "Viet Nam",
+    "weight": 3.3099999999999996
+  },
+  {
+    "donor": "Korea",
+    "recip": "Yemen",
+    "weight": 0.54
+  },
+  {
+    "donor": "Korea",
+    "recip": "Zambia",
+    "weight": 1.1500000000000001
+  },
+  {
+    "donor": "Korea",
+    "recip": "Zimbabwe",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Afghanistan",
+    "weight": 16.32
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Albania",
+    "weight": 2.6599999999999997
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Angola",
+    "weight": 23.9
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Antigua and Barbuda",
+    "weight": 1.22
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Bahrain",
+    "weight": 5.380000000000001
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Bangladesh",
+    "weight": 4.26
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Barbados",
+    "weight": 1.6
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Belize",
+    "weight": 1.22
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Bhutan",
+    "weight": 27.88
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Burkina Faso",
+    "weight": 39.099999999999994
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Chad",
+    "weight": 0.14
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "China (People's Republic of)",
+    "weight": 87.18
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Cyprus",
+    "weight": 20.72
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Democratic Republic of the Congo",
+    "weight": 15.440000000000001
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Dominica",
+    "weight": 1.6
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Egypt",
+    "weight": 885.6999999999999
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Ghana",
+    "weight": 4.06
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Grenada",
+    "weight": 1.22
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Honduras",
+    "weight": 117.16
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "India",
+    "weight": 4.92
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Indonesia",
+    "weight": 4.26
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Iran",
+    "weight": 3.64
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Jordan",
+    "weight": 6.92
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Kenya",
+    "weight": 1.6799999999999997
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Lebanon",
+    "weight": 174.39999999999998
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Maldives",
+    "weight": 52.14
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Mali",
+    "weight": 40.08
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Mauritania",
+    "weight": 31.900000000000002
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Mozambique",
+    "weight": 3.18
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Niger",
+    "weight": 2.9
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Pakistan",
+    "weight": 4.48
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Philippines",
+    "weight": 3.7800000000000002
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Saint Lucia",
+    "weight": 1.6
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Senegal",
+    "weight": 35.64
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Sri Lanka",
+    "weight": 2.86
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Sudan",
+    "weight": 4.720000000000001
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Syrian Arab Republic",
+    "weight": 288.13
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Tanzania",
+    "weight": 0.8
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Togo",
+    "weight": 1.6
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Turkey",
+    "weight": 1.22
+  },
+  {
+    "donor": "Kuwait",
+    "recip": "Zimbabwe",
+    "weight": 3.18
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Afghanistan",
+    "weight": 1.9
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Albania",
+    "weight": 0.8999999999999999
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Angola",
+    "weight": 1.06
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Argentina",
+    "weight": 0.28
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Bangladesh",
+    "weight": 0.78
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Benin",
+    "weight": 0.46
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Bolivia",
+    "weight": 1.87
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Brazil",
+    "weight": 1.6500000000000001
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Burkina Faso",
+    "weight": 1.9
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Burundi",
+    "weight": 4.359999999999999
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Cabo Verde",
+    "weight": 7.76
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Cameroon",
+    "weight": 0.27999999999999997
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Chile",
+    "weight": 4.21
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "China (People's Republic of)",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Colombia",
+    "weight": 2.9200000000000004
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Comoros",
+    "weight": 1.9
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Costa Rica",
+    "weight": 2.84
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Cote d'Ivoire",
+    "weight": 0.6599999999999999
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Democratic Republic of the Congo",
+    "weight": 1.28
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Djibouti",
+    "weight": 6.42
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Ecuador",
+    "weight": 3.02
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Egypt",
+    "weight": 0.5
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "El Salvador",
+    "weight": 0.22000000000000003
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Ethiopia",
+    "weight": 0.62
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Gambia",
+    "weight": 6.299999999999999
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Guatemala",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Guinea",
+    "weight": 2.4
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Haiti",
+    "weight": 0.8400000000000001
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "India",
+    "weight": 2.5200000000000005
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Indonesia",
+    "weight": 0.12
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Iraq",
+    "weight": 1.7200000000000002
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Kenya",
+    "weight": 0.54
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Korea",
+    "weight": 0.16
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Lebanon",
+    "weight": 0.62
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Madagascar",
+    "weight": 0.16
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Malawi",
+    "weight": 2.36
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Mali",
+    "weight": 2.2500000000000004
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Mexico",
+    "weight": 0.42
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Mozambique",
+    "weight": 1.18
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Myanmar",
+    "weight": 0.06
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Namibia",
+    "weight": 6.2
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Nepal",
+    "weight": 0.53
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Nicaragua",
+    "weight": 0.84
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Nigeria",
+    "weight": 0.78
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Paraguay",
+    "weight": 0.06
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Peru",
+    "weight": 3.71
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Philippines",
+    "weight": 1.7200000000000002
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Rwanda",
+    "weight": 2.0100000000000002
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Senegal",
+    "weight": 0.44000000000000006
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Sierra Leone",
+    "weight": 0.06
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Somalia",
+    "weight": 9.7
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Tanzania",
+    "weight": 0.78
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Thailand",
+    "weight": 0.18999999999999997
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Togo",
+    "weight": 2.12
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Tunisia",
+    "weight": 3.84
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Turkey",
+    "weight": 0.8999999999999999
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Uganda",
+    "weight": 0.28
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Uruguay",
+    "weight": 0.33999999999999997
+  },
+  {
+    "donor": "Luxembourg",
+    "recip": "Viet Nam",
+    "weight": 1.18
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Afghanistan",
+    "weight": 36.56
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Albania",
+    "weight": 18.87
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Angola",
+    "weight": 7.42
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Argentina",
+    "weight": 3.45
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Aruba",
+    "weight": 13.26
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Bahamas",
+    "weight": 0.15
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Bangladesh",
+    "weight": 588.37
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Benin",
+    "weight": 4.2
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Bhutan",
+    "weight": 1.46
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Bolivia",
+    "weight": 157.45999999999998
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Botswana",
+    "weight": 15.27
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Brazil",
+    "weight": 49.519999999999996
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Burkina Faso",
+    "weight": 194.61999999999998
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Burundi",
+    "weight": 0.15
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Cabo Verde",
+    "weight": 51.239999999999995
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Cambodia",
+    "weight": 130.34
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Cameroon",
+    "weight": 7.540000000000001
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Chad",
+    "weight": 6.54
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Chile",
+    "weight": 67.21000000000001
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "China (People's Republic of)",
+    "weight": 59.660000000000004
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Colombia",
+    "weight": 29.67
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Costa Rica",
+    "weight": 61.019999999999996
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Cote d'Ivoire",
+    "weight": 2.34
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Democratic Republic of the Congo",
+    "weight": 7.549999999999999
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Djibouti",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Dominican Republic",
+    "weight": 2.79
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Ecuador",
+    "weight": 60.169999999999995
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Egypt",
+    "weight": 51.37
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "El Salvador",
+    "weight": 37.03
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Eswatini",
+    "weight": 8.91
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Ethiopia",
+    "weight": 194.94
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Fiji",
+    "weight": 0.21000000000000002
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Gambia",
+    "weight": 3.75
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Ghana",
+    "weight": 232.21
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Guatemala",
+    "weight": 61.08
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Guinea-Bissau",
+    "weight": 21.0
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Haiti",
+    "weight": 3.52
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Honduras",
+    "weight": 39.72
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Hong Kong (China)",
+    "weight": 0.24000000000000002
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "India",
+    "weight": 893.21
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Indonesia",
+    "weight": 79.61
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Iraq",
+    "weight": 37.04
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Israel",
+    "weight": 36.779999999999994
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Jamaica",
+    "weight": 42.78
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Jordan",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Kenya",
+    "weight": 394.86999999999995
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 7.7
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Lesotho",
+    "weight": 29.52
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Liberia",
+    "weight": 22.380000000000003
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Malawi",
+    "weight": 36.589999999999996
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Malaysia",
+    "weight": 0.15
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Mali",
+    "weight": 129.97
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Malta",
+    "weight": 0.54
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Mexico",
+    "weight": 2.2199999999999998
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Mongolia",
+    "weight": 36.78
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Morocco",
+    "weight": 0.15000000000000002
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Mozambique",
+    "weight": 388.70000000000005
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Namibia",
+    "weight": 2.8899999999999997
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Nepal",
+    "weight": 36.43
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Netherlands Antilles",
+    "weight": 25.56
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Nicaragua",
+    "weight": 152.19
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Niger",
+    "weight": 79.16
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Nigeria",
+    "weight": 7.9300000000000015
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Pakistan",
+    "weight": 361.32
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Peru",
+    "weight": 91.10000000000002
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Philippines",
+    "weight": 34.93
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Rwanda",
+    "weight": 13.149999999999999
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Saint Vincent and the Grenadines",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Samoa",
+    "weight": 0.8400000000000001
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Sao Tome and Principe",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Senegal",
+    "weight": 76.92
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Sierra Leone",
+    "weight": 0.30000000000000004
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Solomon Islands",
+    "weight": 0.51
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Somalia",
+    "weight": 121.42
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Sri Lanka",
+    "weight": 25.55
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Sudan",
+    "weight": 285.31
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Suriname",
+    "weight": 736.55
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Tanzania",
+    "weight": 568.48
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Thailand",
+    "weight": 19.45
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Togo",
+    "weight": 0.36
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Tonga",
+    "weight": 0.15
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Trinidad and Tobago",
+    "weight": 0.44999999999999996
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Tunisia",
+    "weight": 1.1500000000000001
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Turkey",
+    "weight": 4.3999999999999995
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Uganda",
+    "weight": 202.07
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Uruguay",
+    "weight": 0.81
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Venezuela",
+    "weight": 0.54
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Viet Nam",
+    "weight": 124.61
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Yemen",
+    "weight": 203.23000000000002
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Zambia",
+    "weight": 220.21999999999997
+  },
+  {
+    "donor": "Netherlands",
+    "recip": "Zimbabwe",
+    "weight": 189.68000000000004
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Argentina",
+    "weight": 0.09
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Bhutan",
+    "weight": 0.36
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Botswana",
+    "weight": 0.36
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Brazil",
+    "weight": 0.5700000000000001
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Cambodia",
+    "weight": 0.18000000000000002
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Chile",
+    "weight": 0.37999999999999995
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "China (People's Republic of)",
+    "weight": 8.29
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Colombia",
+    "weight": 0.6600000000000001
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Cook Islands",
+    "weight": 49.980000000000004
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Ecuador",
+    "weight": 0.09
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Egypt",
+    "weight": 0.18
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Fiji",
+    "weight": 25.699999999999996
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Ghana",
+    "weight": 0.27
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "India",
+    "weight": 0.32
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Indonesia",
+    "weight": 25.549999999999997
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Kenya",
+    "weight": 1.3699999999999997
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Kiribati",
+    "weight": 12.29
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 0.5700000000000001
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Malaysia",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Maldives",
+    "weight": 0.36
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Marshall Islands",
+    "weight": 0.75
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Mexico",
+    "weight": 1.59
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Micronesia",
+    "weight": 0.54
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Mongolia",
+    "weight": 0.99
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Mozambique",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Namibia",
+    "weight": 0.32999999999999996
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Nepal",
+    "weight": 1.5899999999999999
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "New Caledonia",
+    "weight": 2.67
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Nigeria",
+    "weight": 0.18000000000000002
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Niue",
+    "weight": 26.630000000000003
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Northern Mariana Islands",
+    "weight": 0.06
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Pakistan",
+    "weight": 0.84
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Papua New Guinea",
+    "weight": 35.379999999999995
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Peru",
+    "weight": 0.48
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Philippines",
+    "weight": 10.850000000000001
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Samoa",
+    "weight": 69.74
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Solomon Islands",
+    "weight": 23.34
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Sri Lanka",
+    "weight": 0.33
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Tanzania",
+    "weight": 1.26
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Thailand",
+    "weight": 8.91
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Tokelau",
+    "weight": 21.17
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Tonga",
+    "weight": 32.24
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Trinidad and Tobago",
+    "weight": 0.36000000000000004
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Tuvalu",
+    "weight": 5.52
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Uganda",
+    "weight": 0.18000000000000002
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Uruguay",
+    "weight": 0.6599999999999999
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Vanuatu",
+    "weight": 21.880000000000003
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Viet Nam",
+    "weight": 0.84
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Zambia",
+    "weight": 0.7500000000000001
+  },
+  {
+    "donor": "New Zealand",
+    "recip": "Zimbabwe",
+    "weight": 2.0700000000000003
+  },
+  {
+    "donor": "Nordic Development Fund [NDF]",
+    "recip": "Angola",
+    "weight": 23.06
+  },
+  {
+    "donor": "Nordic Development Fund [NDF]",
+    "recip": "Benin",
+    "weight": 13.18
+  },
+  {
+    "donor": "Nordic Development Fund [NDF]",
+    "recip": "Botswana",
+    "weight": 26.34
+  },
+  {
+    "donor": "Nordic Development Fund [NDF]",
+    "recip": "Jamaica",
+    "weight": 13.18
+  },
+  {
+    "donor": "Nordic Development Fund [NDF]",
+    "recip": "Pakistan",
+    "weight": 23.060000000000002
+  },
+  {
+    "donor": "Nordic Development Fund [NDF]",
+    "recip": "Senegal",
+    "weight": 24.36
+  },
+  {
+    "donor": "Norway",
+    "recip": "Bangladesh",
+    "weight": 269.15999999999997
+  },
+  {
+    "donor": "Norway",
+    "recip": "Bhutan",
+    "weight": 3.48
+  },
+  {
+    "donor": "Norway",
+    "recip": "Botswana",
+    "weight": 50.120000000000005
+  },
+  {
+    "donor": "Norway",
+    "recip": "Burkina Faso",
+    "weight": 17.5
+  },
+  {
+    "donor": "Norway",
+    "recip": "Chile",
+    "weight": 16.21
+  },
+  {
+    "donor": "Norway",
+    "recip": "China (People's Republic of)",
+    "weight": 99.75999999999999
+  },
+  {
+    "donor": "Norway",
+    "recip": "El Salvador",
+    "weight": 2.6
+  },
+  {
+    "donor": "Norway",
+    "recip": "Gambia",
+    "weight": 1.2000000000000002
+  },
+  {
+    "donor": "Norway",
+    "recip": "Ghana",
+    "weight": 17.5
+  },
+  {
+    "donor": "Norway",
+    "recip": "India",
+    "weight": 91.66
+  },
+  {
+    "donor": "Norway",
+    "recip": "Indonesia",
+    "weight": 95.52000000000001
+  },
+  {
+    "donor": "Norway",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 13.109999999999998
+  },
+  {
+    "donor": "Norway",
+    "recip": "Madagascar",
+    "weight": 12.66
+  },
+  {
+    "donor": "Norway",
+    "recip": "Malawi",
+    "weight": 5.26
+  },
+  {
+    "donor": "Norway",
+    "recip": "Mali",
+    "weight": 6.8
+  },
+  {
+    "donor": "Norway",
+    "recip": "Mozambique",
+    "weight": 182.24
+  },
+  {
+    "donor": "Norway",
+    "recip": "Namibia",
+    "weight": 4.23
+  },
+  {
+    "donor": "Norway",
+    "recip": "Nepal",
+    "weight": 28.649999999999995
+  },
+  {
+    "donor": "Norway",
+    "recip": "Nicaragua",
+    "weight": 84.66
+  },
+  {
+    "donor": "Norway",
+    "recip": "Pakistan",
+    "weight": 71.10000000000001
+  },
+  {
+    "donor": "Norway",
+    "recip": "Philippines",
+    "weight": 53.470000000000006
+  },
+  {
+    "donor": "Norway",
+    "recip": "Sri Lanka",
+    "weight": 10.76
+  },
+  {
+    "donor": "Norway",
+    "recip": "Tanzania",
+    "weight": 197.14000000000001
+  },
+  {
+    "donor": "Norway",
+    "recip": "Uganda",
+    "weight": 25.16
+  },
+  {
+    "donor": "Norway",
+    "recip": "Zambia",
+    "weight": 166.49
+  },
+  {
+    "donor": "Norway",
+    "recip": "Zimbabwe",
+    "weight": 125.20000000000002
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Bangladesh",
+    "weight": 60.8
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Cabo Verde",
+    "weight": 9.36
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Chad",
+    "weight": 23.380000000000003
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Ghana",
+    "weight": 23.380000000000003
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Guatemala",
+    "weight": 14.5
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Honduras",
+    "weight": 23.380000000000003
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Lebanon",
+    "weight": 23.380000000000003
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Madagascar",
+    "weight": 21.6
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Maldives",
+    "weight": 12.16
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Mali",
+    "weight": 14.32
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Mauritania",
+    "weight": 29.94
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Morocco",
+    "weight": 58.46000000000001
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Mozambique",
+    "weight": 16.36
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Nicaragua",
+    "weight": 23.380000000000003
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Rwanda",
+    "weight": 9.36
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Sao Tome and Principe",
+    "weight": 7.02
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Senegal",
+    "weight": 23.380000000000003
+  },
+  {
+    "donor": "OPEC Fund for International Development [OPEC Fund]",
+    "recip": "Tanzania",
+    "weight": 5.62
+  },
+  {
+    "donor": "Portugal",
+    "recip": "Angola",
+    "weight": 88.41
+  },
+  {
+    "donor": "Portugal",
+    "recip": "Cabo Verde",
+    "weight": 164.88
+  },
+  {
+    "donor": "Portugal",
+    "recip": "Guinea-Bissau",
+    "weight": 112.97999999999999
+  },
+  {
+    "donor": "Portugal",
+    "recip": "Mozambique",
+    "weight": 122.57000000000001
+  },
+  {
+    "donor": "Portugal",
+    "recip": "Sao Tome and Principe",
+    "weight": 51.66
+  },
+  {
+    "donor": "Spain",
+    "recip": "Angola",
+    "weight": 102.18
+  },
+  {
+    "donor": "Spain",
+    "recip": "Argentina",
+    "weight": 201.07999999999998
+  },
+  {
+    "donor": "Spain",
+    "recip": "Bolivia",
+    "weight": 388.62
+  },
+  {
+    "donor": "Spain",
+    "recip": "China (People's Republic of)",
+    "weight": 1128.78
+  },
+  {
+    "donor": "Spain",
+    "recip": "Ecuador",
+    "weight": 254.36
+  },
+  {
+    "donor": "Spain",
+    "recip": "Honduras",
+    "weight": 253.44
+  },
+  {
+    "donor": "Spain",
+    "recip": "Indonesia",
+    "weight": 227.26
+  },
+  {
+    "donor": "Spain",
+    "recip": "Mauritania",
+    "weight": 21.68
+  },
+  {
+    "donor": "Spain",
+    "recip": "Mexico",
+    "weight": 1211.1000000000001
+  },
+  {
+    "donor": "Spain",
+    "recip": "Mozambique",
+    "weight": 13.360000000000001
+  },
+  {
+    "donor": "Spain",
+    "recip": "Niger",
+    "weight": 38.22
+  },
+  {
+    "donor": "Spain",
+    "recip": "Uruguay",
+    "weight": 128.72
+  },
+  {
+    "donor": "Spain",
+    "recip": "Zimbabwe",
+    "weight": 53.959999999999994
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Algeria",
+    "weight": 0.72
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Angola",
+    "weight": 139.96
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Argentina",
+    "weight": 0.5399999999999999
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Bangladesh",
+    "weight": 97.30000000000001
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Bhutan",
+    "weight": 2.1599999999999997
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Bolivia",
+    "weight": 46.580000000000005
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Botswana",
+    "weight": 64.16
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Cabo Verde",
+    "weight": 52.92
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Chile",
+    "weight": 8.16
+  },
+  {
+    "donor": "Sweden",
+    "recip": "China (People's Republic of)",
+    "weight": 403.76000000000005
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Costa Rica",
+    "weight": 23.669999999999998
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Dominican Republic",
+    "weight": 2.7300000000000004
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Ecuador",
+    "weight": 8.22
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Egypt",
+    "weight": 16.29
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Ethiopia",
+    "weight": 85.32000000000001
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Ghana",
+    "weight": 19.140000000000004
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Guinea-Bissau",
+    "weight": 61.44
+  },
+  {
+    "donor": "Sweden",
+    "recip": "India",
+    "weight": 294.57000000000005
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Iraq",
+    "weight": 18.64
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Jamaica",
+    "weight": 4.7700000000000005
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Jordan",
+    "weight": 1.74
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Kenya",
+    "weight": 85.32
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 75.12
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Lesotho",
+    "weight": 73.04
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Malaysia",
+    "weight": 12.69
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Mauritius",
+    "weight": 1.8
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Mexico",
+    "weight": 0.48000000000000004
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Mongolia",
+    "weight": 2.04
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Morocco",
+    "weight": 51.35999999999999
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Mozambique",
+    "weight": 296.98
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Namibia",
+    "weight": 82.03
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Nicaragua",
+    "weight": 191.14
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Pakistan",
+    "weight": 114.67000000000002
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Philippines",
+    "weight": 28.799999999999997
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Senegal",
+    "weight": 0.36
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Somalia",
+    "weight": 18.64
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Sri Lanka",
+    "weight": 11.920000000000002
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Tanzania",
+    "weight": 380.6
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Thailand",
+    "weight": 89.28
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Trinidad and Tobago",
+    "weight": 1.26
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Tunisia",
+    "weight": 44.849999999999994
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Uganda",
+    "weight": 75.12
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Uruguay",
+    "weight": 5.789999999999999
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Viet Nam",
+    "weight": 187.76
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Zambia",
+    "weight": 182.62
+  },
+  {
+    "donor": "Sweden",
+    "recip": "Zimbabwe",
+    "weight": 183.98999999999998
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Afghanistan",
+    "weight": 20.080000000000002
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Albania",
+    "weight": 7.87
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Algeria",
+    "weight": 3.5
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Angola",
+    "weight": 7.140000000000001
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Argentina",
+    "weight": 0.24
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Bangladesh",
+    "weight": 165.10999999999999
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Benin",
+    "weight": 37.69
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Bhutan",
+    "weight": 5.71
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Bolivia",
+    "weight": 64.71
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Brazil",
+    "weight": 9.05
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Burkina Faso",
+    "weight": 19.33
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Burundi",
+    "weight": 8.09
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Cabo Verde",
+    "weight": 32.77
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Cambodia",
+    "weight": 7.300000000000001
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Cameroon",
+    "weight": 54.58
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Chad",
+    "weight": 40.23
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Chile",
+    "weight": 6.28
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "China (People's Republic of)",
+    "weight": 13.25
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Colombia",
+    "weight": 11.01
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Congo",
+    "weight": 0.51
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Costa Rica",
+    "weight": 11.27
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Cuba",
+    "weight": 0.63
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Democratic Republic of the Congo",
+    "weight": 2.3899999999999997
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Ecuador",
+    "weight": 7.700000000000001
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Egypt",
+    "weight": 112.07000000000002
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "El Salvador",
+    "weight": 42.16
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Ethiopia",
+    "weight": 26.45
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Gambia",
+    "weight": 15.280000000000001
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Ghana",
+    "weight": 0.74
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Guatemala",
+    "weight": 4.7
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Guinea",
+    "weight": 5.16
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Guinea-Bissau",
+    "weight": 19.76
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Haiti",
+    "weight": 6.549999999999999
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Honduras",
+    "weight": 27.299999999999997
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "India",
+    "weight": 80.06
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Indonesia",
+    "weight": 164.66000000000003
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Iran",
+    "weight": 0.45000000000000007
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Iraq",
+    "weight": 8.66
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Israel",
+    "weight": 8.34
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Jordan",
+    "weight": 0.36000000000000004
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Kenya",
+    "weight": 42.440000000000005
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Korea",
+    "weight": 0.09000000000000001
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 1.23
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Lebanon",
+    "weight": 7.990000000000001
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Lesotho",
+    "weight": 19.3
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Liberia",
+    "weight": 7.5600000000000005
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Madagascar",
+    "weight": 82.56
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Malawi",
+    "weight": 9.54
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Malaysia",
+    "weight": 1.4
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Mali",
+    "weight": 25.04
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Mauritania",
+    "weight": 3.3099999999999996
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Mexico",
+    "weight": 0.69
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Morocco",
+    "weight": 0.28
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Mozambique",
+    "weight": 132.85999999999999
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Myanmar",
+    "weight": 4.55
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Namibia",
+    "weight": 4.74
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Nepal",
+    "weight": 98.30000000000001
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Nicaragua",
+    "weight": 45.42
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Niger",
+    "weight": 74.09
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Nigeria",
+    "weight": 0.15000000000000002
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Pakistan",
+    "weight": 50.26
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Peru",
+    "weight": 57.050000000000004
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Philippines",
+    "weight": 4.96
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Rwanda",
+    "weight": 90.57000000000001
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Senegal",
+    "weight": 7.180000000000001
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Somalia",
+    "weight": 18.78
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Sri Lanka",
+    "weight": 21.18
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Sudan",
+    "weight": 18.1
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Tanzania",
+    "weight": 210.91
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Thailand",
+    "weight": 2.75
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Togo",
+    "weight": 1.9
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Tunisia",
+    "weight": 0.54
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Turkey",
+    "weight": 31.400000000000002
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Uganda",
+    "weight": 10.69
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Uruguay",
+    "weight": 0.54
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Viet Nam",
+    "weight": 39.05
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Yemen",
+    "weight": 0.26
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Zambia",
+    "weight": 6.42
+  },
+  {
+    "donor": "Switzerland",
+    "recip": "Zimbabwe",
+    "weight": 16.700000000000003
+  },
+  {
+    "donor": "United Arab Emirates",
+    "recip": "Egypt",
+    "weight": 448.03999999999996
+  },
+  {
+    "donor": "United Arab Emirates",
+    "recip": "Morocco",
+    "weight": 3.18
+  },
+  {
+    "donor": "United Arab Emirates",
+    "recip": "Syrian Arab Republic",
+    "weight": 1159.24
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Afghanistan",
+    "weight": 16.1
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Albania",
+    "weight": 6.219999999999999
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Algeria",
+    "weight": 3.9599999999999995
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Angola",
+    "weight": 17.49
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Anguilla",
+    "weight": 15.39
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Antigua and Barbuda",
+    "weight": 12.48
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Argentina",
+    "weight": 1.3499999999999999
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Bahamas",
+    "weight": 0.21000000000000002
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Bangladesh",
+    "weight": 266.04
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Barbados",
+    "weight": 4.529999999999999
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Belize",
+    "weight": 58.39
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Benin",
+    "weight": 29.41
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Bermuda",
+    "weight": 0.12000000000000001
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Bhutan",
+    "weight": 8.58
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Bolivia",
+    "weight": 104.64
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Botswana",
+    "weight": 69.96
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Brazil",
+    "weight": 43.89
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "British Virgin Islands",
+    "weight": 11.19
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Brunei Darussalam",
+    "weight": 0.04
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Burkina Faso",
+    "weight": 3.51
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Burundi",
+    "weight": 2.0700000000000003
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Cabo Verde",
+    "weight": 1.3499999999999999
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Cambodia",
+    "weight": 8.93
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Cameroon",
+    "weight": 40.29
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Cayman Islands",
+    "weight": 0.12000000000000001
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Central African Republic",
+    "weight": 0.48000000000000004
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Chad",
+    "weight": 3.1399999999999997
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Chile",
+    "weight": 10.379999999999999
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "China (People's Republic of)",
+    "weight": 216.82000000000002
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Colombia",
+    "weight": 22.21
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Comoros",
+    "weight": 0.33
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Congo",
+    "weight": 4.0200000000000005
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Costa Rica",
+    "weight": 7.61
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Cote d'Ivoire",
+    "weight": 8.33
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Cuba",
+    "weight": 0.21000000000000002
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Cyprus",
+    "weight": 5.880000000000001
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Democratic Republic of the Congo",
+    "weight": 3.0300000000000002
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Djibouti",
+    "weight": 1.2
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Dominica",
+    "weight": 9.18
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Dominican Republic",
+    "weight": 0.32999999999999996
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Ecuador",
+    "weight": 16.7
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Egypt",
+    "weight": 91.59
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "El Salvador",
+    "weight": 1.73
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Eswatini",
+    "weight": 34.17
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Ethiopia",
+    "weight": 164.11
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Fiji",
+    "weight": 23.1
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Gabon",
+    "weight": 0.48000000000000004
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Gambia",
+    "weight": 46.46
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Ghana",
+    "weight": 265.43
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Gibraltar",
+    "weight": 0.39
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Grenada",
+    "weight": 11.700000000000001
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Guatemala",
+    "weight": 0.9300000000000002
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Guinea",
+    "weight": 5.31
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Guinea-Bissau",
+    "weight": 0.12000000000000001
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Guyana",
+    "weight": 28.68
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Haiti",
+    "weight": 1.2999999999999998
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Honduras",
+    "weight": 15.29
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Hong Kong (China)",
+    "weight": 3.75
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "India",
+    "weight": 892.91
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Indonesia",
+    "weight": 156.25
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Iran",
+    "weight": 13.66
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Iraq",
+    "weight": 18.22
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Israel",
+    "weight": 0.060000000000000005
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Jamaica",
+    "weight": 31.150000000000002
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Jordan",
+    "weight": 28.769999999999996
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Kenya",
+    "weight": 213.92999999999998
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Kiribati",
+    "weight": 13.68
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 0.33
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Lebanon",
+    "weight": 2.23
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Lesotho",
+    "weight": 56.14
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Liberia",
+    "weight": 2.8699999999999997
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Madagascar",
+    "weight": 5.419999999999999
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Malawi",
+    "weight": 247.07
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Malaysia",
+    "weight": 59.54
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Maldives",
+    "weight": 6.800000000000001
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Mali",
+    "weight": 8.83
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Malta",
+    "weight": 3.6700000000000004
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Mauritania",
+    "weight": 0.8700000000000001
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Mauritius",
+    "weight": 20.34
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Mexico",
+    "weight": 21.029999999999998
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Mongolia",
+    "weight": 15.990000000000002
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Montserrat",
+    "weight": 18.48
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Morocco",
+    "weight": 6.57
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Mozambique",
+    "weight": 215.85
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Myanmar",
+    "weight": 0.47
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Namibia",
+    "weight": 32.54
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Nepal",
+    "weight": 102.08
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Nicaragua",
+    "weight": 6.78
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Niger",
+    "weight": 3.44
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Nigeria",
+    "weight": 137.35
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Oman",
+    "weight": 10.44
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Pakistan",
+    "weight": 190.21999999999997
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Panama",
+    "weight": 2.88
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Papua New Guinea",
+    "weight": 10.82
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Paraguay",
+    "weight": 6.109999999999999
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Peru",
+    "weight": 20.72
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Philippines",
+    "weight": 73.47
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Rwanda",
+    "weight": 1.6300000000000001
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Saint Helena",
+    "weight": 73.12
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Saint Kitts and Nevis",
+    "weight": 6.529999999999999
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Saint Lucia",
+    "weight": 11.979999999999999
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Saint Vincent and the Grenadines",
+    "weight": 4.8
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Samoa",
+    "weight": 1.5
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Senegal",
+    "weight": 12.12
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Seychelles",
+    "weight": 13.559999999999999
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Sierra Leone",
+    "weight": 22.300000000000004
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Singapore",
+    "weight": 2.13
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Solomon Islands",
+    "weight": 36.370000000000005
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Somalia",
+    "weight": 61.44
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Sri Lanka",
+    "weight": 85.58
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Sudan",
+    "weight": 62.21
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Syrian Arab Republic",
+    "weight": 0.21000000000000002
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Tanzania",
+    "weight": 641.6
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Thailand",
+    "weight": 25.400000000000002
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Togo",
+    "weight": 2.73
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Tonga",
+    "weight": 2.82
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Trinidad and Tobago",
+    "weight": 3.91
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Tunisia",
+    "weight": 3.3600000000000003
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Turkey",
+    "weight": 23.55
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Turks and Caicos Islands",
+    "weight": 47.62
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Tuvalu",
+    "weight": 2.55
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Uganda",
+    "weight": 225.26000000000002
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Uruguay",
+    "weight": 2.13
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Vanuatu",
+    "weight": 51.96
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Venezuela",
+    "weight": 3.0
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Viet Nam",
+    "weight": 24.17
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Yemen",
+    "weight": 50.6
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Zambia",
+    "weight": 351.06
+  },
+  {
+    "donor": "United Kingdom",
+    "recip": "Zimbabwe",
+    "weight": 207.67000000000002
+  },
+  {
+    "donor": "United States",
+    "recip": "Afghanistan",
+    "weight": 404.24
+  },
+  {
+    "donor": "United States",
+    "recip": "Albania",
+    "weight": 61.75
+  },
+  {
+    "donor": "United States",
+    "recip": "Algeria",
+    "weight": 21.120000000000005
+  },
+  {
+    "donor": "United States",
+    "recip": "Angola",
+    "weight": 150.76
+  },
+  {
+    "donor": "United States",
+    "recip": "Argentina",
+    "weight": 12.809999999999999
+  },
+  {
+    "donor": "United States",
+    "recip": "Bahamas",
+    "weight": 5.34
+  },
+  {
+    "donor": "United States",
+    "recip": "Bangladesh",
+    "weight": 633.3199999999999
+  },
+  {
+    "donor": "United States",
+    "recip": "Belize",
+    "weight": 45.06
+  },
+  {
+    "donor": "United States",
+    "recip": "Benin",
+    "weight": 89.59
+  },
+  {
+    "donor": "United States",
+    "recip": "Bolivia",
+    "weight": 1022.26
+  },
+  {
+    "donor": "United States",
+    "recip": "Botswana",
+    "weight": 156.78
+  },
+  {
+    "donor": "United States",
+    "recip": "Brazil",
+    "weight": 36.04
+  },
+  {
+    "donor": "United States",
+    "recip": "Burkina Faso",
+    "weight": 83.4
+  },
+  {
+    "donor": "United States",
+    "recip": "Burundi",
+    "weight": 95.52
+  },
+  {
+    "donor": "United States",
+    "recip": "Cabo Verde",
+    "weight": 28.8
+  },
+  {
+    "donor": "United States",
+    "recip": "Cambodia",
+    "weight": 198.03000000000003
+  },
+  {
+    "donor": "United States",
+    "recip": "Cameroon",
+    "weight": 189.01999999999998
+  },
+  {
+    "donor": "United States",
+    "recip": "Central African Republic",
+    "weight": 44.25
+  },
+  {
+    "donor": "United States",
+    "recip": "Chad",
+    "weight": 97.97999999999999
+  },
+  {
+    "donor": "United States",
+    "recip": "Chile",
+    "weight": 34.22
+  },
+  {
+    "donor": "United States",
+    "recip": "Colombia",
+    "weight": 401.22
+  },
+  {
+    "donor": "United States",
+    "recip": "Comoros",
+    "weight": 19.200000000000003
+  },
+  {
+    "donor": "United States",
+    "recip": "Congo",
+    "weight": 44.92
+  },
+  {
+    "donor": "United States",
+    "recip": "Cook Islands",
+    "weight": 0.8099999999999999
+  },
+  {
+    "donor": "United States",
+    "recip": "Costa Rica",
+    "weight": 270.75
+  },
+  {
+    "donor": "United States",
+    "recip": "Cote d'Ivoire",
+    "weight": 138.45
+  },
+  {
+    "donor": "United States",
+    "recip": "Cyprus",
+    "weight": 120.03000000000002
+  },
+  {
+    "donor": "United States",
+    "recip": "Democratic Republic of the Congo",
+    "weight": 1.4400000000000002
+  },
+  {
+    "donor": "United States",
+    "recip": "Djibouti",
+    "weight": 11.16
+  },
+  {
+    "donor": "United States",
+    "recip": "Dominican Republic",
+    "weight": 165.87
+  },
+  {
+    "donor": "United States",
+    "recip": "Ecuador",
+    "weight": 180.19
+  },
+  {
+    "donor": "United States",
+    "recip": "Egypt",
+    "weight": 6791.630000000001
+  },
+  {
+    "donor": "United States",
+    "recip": "El Salvador",
+    "weight": 1692.52
+  },
+  {
+    "donor": "United States",
+    "recip": "Equatorial Guinea",
+    "weight": 5.52
+  },
+  {
+    "donor": "United States",
+    "recip": "Eswatini",
+    "weight": 82.44
+  },
+  {
+    "donor": "United States",
+    "recip": "Ethiopia",
+    "weight": 450.90999999999997
+  },
+  {
+    "donor": "United States",
+    "recip": "Fiji",
+    "weight": 11.850000000000001
+  },
+  {
+    "donor": "United States",
+    "recip": "Gabon",
+    "weight": 19.14
+  },
+  {
+    "donor": "United States",
+    "recip": "Gambia",
+    "weight": 72.78
+  },
+  {
+    "donor": "United States",
+    "recip": "Ghana",
+    "weight": 284.07
+  },
+  {
+    "donor": "United States",
+    "recip": "Guatemala",
+    "weight": 460.81
+  },
+  {
+    "donor": "United States",
+    "recip": "Guinea",
+    "weight": 208.56
+  },
+  {
+    "donor": "United States",
+    "recip": "Guinea-Bissau",
+    "weight": 36.839999999999996
+  },
+  {
+    "donor": "United States",
+    "recip": "Guyana",
+    "weight": 20.06
+  },
+  {
+    "donor": "United States",
+    "recip": "Haiti",
+    "weight": 285.43
+  },
+  {
+    "donor": "United States",
+    "recip": "Honduras",
+    "weight": 515.64
+  },
+  {
+    "donor": "United States",
+    "recip": "India",
+    "weight": 1003.3299999999999
+  },
+  {
+    "donor": "United States",
+    "recip": "Indonesia",
+    "weight": 445.80000000000007
+  },
+  {
+    "donor": "United States",
+    "recip": "Israel",
+    "weight": 10029.84
+  },
+  {
+    "donor": "United States",
+    "recip": "Jamaica",
+    "weight": 497.39
+  },
+  {
+    "donor": "United States",
+    "recip": "Jordan",
+    "weight": 201.35
+  },
+  {
+    "donor": "United States",
+    "recip": "Kenya",
+    "weight": 179.88
+  },
+  {
+    "donor": "United States",
+    "recip": "Kiribati",
+    "weight": 2.8799999999999994
+  },
+  {
+    "donor": "United States",
+    "recip": "Korea",
+    "weight": 11.26
+  },
+  {
+    "donor": "United States",
+    "recip": "Lao People's Democratic Republic",
+    "weight": 9.6
+  },
+  {
+    "donor": "United States",
+    "recip": "Lebanon",
+    "weight": 167.55
+  },
+  {
+    "donor": "United States",
+    "recip": "Lesotho",
+    "weight": 53.03
+  },
+  {
+    "donor": "United States",
+    "recip": "Liberia",
+    "weight": 58.43
+  },
+  {
+    "donor": "United States",
+    "recip": "Madagascar",
+    "weight": 313.96000000000004
+  },
+  {
+    "donor": "United States",
+    "recip": "Malawi",
+    "weight": 176.0
+  },
+  {
+    "donor": "United States",
+    "recip": "Mali",
+    "weight": 233.78
+  },
+  {
+    "donor": "United States",
+    "recip": "Malta",
+    "weight": 0.33
+  },
+  {
+    "donor": "United States",
+    "recip": "Marshall Islands",
+    "weight": 3.75
+  },
+  {
+    "donor": "United States",
+    "recip": "Mauritania",
+    "weight": 14.65
+  },
+  {
+    "donor": "United States",
+    "recip": "Mauritius",
+    "weight": 1.05
+  },
+  {
+    "donor": "United States",
+    "recip": "Mexico",
+    "weight": 305.28999999999996
+  },
+  {
+    "donor": "United States",
+    "recip": "Micronesia",
+    "weight": 11.04
+  },
+  {
+    "donor": "United States",
+    "recip": "Mongolia",
+    "weight": 124.53
+  },
+  {
+    "donor": "United States",
+    "recip": "Morocco",
+    "weight": 405.33
+  },
+  {
+    "donor": "United States",
+    "recip": "Mozambique",
+    "weight": 590.16
+  },
+  {
+    "donor": "United States",
+    "recip": "Namibia",
+    "weight": 123.87
+  },
+  {
+    "donor": "United States",
+    "recip": "Nepal",
+    "weight": 142.2
+  },
+  {
+    "donor": "United States",
+    "recip": "Nicaragua",
+    "weight": 614.5
+  },
+  {
+    "donor": "United States",
+    "recip": "Niger",
+    "weight": 230.82999999999998
+  },
+  {
+    "donor": "United States",
+    "recip": "Nigeria",
+    "weight": 40.98
+  },
+  {
+    "donor": "United States",
+    "recip": "Northern Mariana Islands",
+    "weight": 914.8599999999999
+  },
+  {
+    "donor": "United States",
+    "recip": "Oman",
+    "weight": 239.37
+  },
+  {
+    "donor": "United States",
+    "recip": "Pakistan",
+    "weight": 21.040000000000003
+  },
+  {
+    "donor": "United States",
+    "recip": "Panama",
+    "weight": 119.78999999999999
+  },
+  {
+    "donor": "United States",
+    "recip": "Papua New Guinea",
+    "weight": 10.560000000000002
+  },
+  {
+    "donor": "United States",
+    "recip": "Paraguay",
+    "weight": 29.71
+  },
+  {
+    "donor": "United States",
+    "recip": "Peru",
+    "weight": 746.3099999999998
+  },
+  {
+    "donor": "United States",
+    "recip": "Philippines",
+    "weight": 1844.5900000000001
+  },
+  {
+    "donor": "United States",
+    "recip": "Rwanda",
+    "weight": 177.89999999999998
+  },
+  {
+    "donor": "United States",
+    "recip": "Samoa",
+    "weight": 6.569999999999999
+  },
+  {
+    "donor": "United States",
+    "recip": "Sao Tome and Principe",
+    "weight": 4.59
+  },
+  {
+    "donor": "United States",
+    "recip": "Senegal",
+    "weight": 266.40999999999997
+  },
+  {
+    "donor": "United States",
+    "recip": "Seychelles",
+    "weight": 20.239999999999995
+  },
+  {
+    "donor": "United States",
+    "recip": "Sierra Leone",
+    "weight": 99.6
+  },
+  {
+    "donor": "United States",
+    "recip": "Solomon Islands",
+    "weight": 5.609999999999999
+  },
+  {
+    "donor": "United States",
+    "recip": "Somalia",
+    "weight": 1673.3399999999997
+  },
+  {
+    "donor": "United States",
+    "recip": "Sri Lanka",
+    "weight": 219.71999999999997
+  },
+  {
+    "donor": "United States",
+    "recip": "Sudan",
+    "weight": 68.0
+  },
+  {
+    "donor": "United States",
+    "recip": "Suriname",
+    "weight": 42.68
+  },
+  {
+    "donor": "United States",
+    "recip": "Tanzania",
+    "weight": 120.41
+  },
+  {
+    "donor": "United States",
+    "recip": "Thailand",
+    "weight": 61.09
+  },
+  {
+    "donor": "United States",
+    "recip": "Togo",
+    "weight": 121.33000000000001
+  },
+  {
+    "donor": "United States",
+    "recip": "Tonga",
+    "weight": 4.95
+  },
+  {
+    "donor": "United States",
+    "recip": "Tunisia",
+    "weight": 64.29
+  },
+  {
+    "donor": "United States",
+    "recip": "Turkey",
+    "weight": 7.199999999999999
+  },
+  {
+    "donor": "United States",
+    "recip": "Tuvalu",
+    "weight": 0.24000000000000002
+  },
+  {
+    "donor": "United States",
+    "recip": "Uganda",
+    "weight": 313.3399999999999
+  },
+  {
+    "donor": "United States",
+    "recip": "Uruguay",
+    "weight": 19.35
+  },
+  {
+    "donor": "United States",
+    "recip": "Vanuatu",
+    "weight": 1.0499999999999998
+  },
+  {
+    "donor": "United States",
+    "recip": "Venezuela",
+    "weight": 5.34
+  },
+  {
+    "donor": "United States",
+    "recip": "Viet Nam",
+    "weight": 9.620000000000001
+  },
+  {
+    "donor": "United States",
+    "recip": "Yemen",
+    "weight": 39.75
+  },
+  {
+    "donor": "United States",
+    "recip": "Zambia",
+    "weight": 705.69
+  },
+  {
+    "donor": "United States",
+    "recip": "Zimbabwe",
+    "weight": 667.3299999999999
+  }
+]
